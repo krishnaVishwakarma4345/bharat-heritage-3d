@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+  }
+
+  html {
+    @apply scroll-smooth;
+  }
+
+  body {
+    @apply m-0 min-w-[320px] bg-ivory font-sans text-ink antialiased;
+  }
+
+  a {
+    @apply transition-colors;
+  }
+
+  button,
+  a {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sandstone focus-visible:ring-offset-2 focus-visible:ring-offset-ivory;
+  }
+}
+
+@layer components {
+  .page-container {
+    @apply container max-w-8xl;
+  }
+
+  .heritage-card {
+    @apply rounded-2xl border border-bronze/10 bg-white/60 shadow-heritage;
+  }
+}

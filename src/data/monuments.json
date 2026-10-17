@@ -1,0 +1,1897 @@
+[
+  {
+    "id": "agra-fort",
+    "slug": "agra-fort",
+    "name": "Agra Fort",
+    "location": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "featured": false,
+    "shortDescription": "A massive red sandstone Mughal fort on the Yamuna that served as the dynasty's seat of power.",
+    "description": "Agra Fort is a walled imperial citadel that grew from an older fortress into a palace-city of red sandstone and white marble. It sits close to the Taj Mahal and shows the architectural shift from Akbar's bold sandstone style to Shah Jahan's refined marble pavilions.",
+    "historicalBackground": [
+      "A brick fort is believed to have stood on this bank of the Yamuna since the early medieval period, and it passed between several regional rulers. In the early 16th century Sikandar Lodi of the Delhi Sultanate made Agra his base, and the Lodi court used the older fort until Ibrahim Lodi was defeated by Babur at Panipat in 1526.",
+      "After 1526 the Mughals took the fort and its treasury. Humayun was crowned here in 1530, but his reign was interrupted by Sher Shah Suri, and the fort passed to the Surs before the Mughals returned to power.",
+      "The fort that survives today was largely rebuilt for Akbar from about 1565. Its red sandstone walls rise around 20 m and run for roughly 2.5 km, protected by a moat and double ramparts. Inside, Akbar's builders raised many sandstone palaces, of which only a few, such as the Jahangiri Mahal, remain.",
+      "Shah Jahan, a great patron of white marble, replaced several earlier buildings with pavilions of marble and inlay work, including the Diwan-i-Am, Diwan-i-Khas, Moti Masjid, Khas Mahal and the Musamman Burj. According to tradition, from the Musamman Burj the ageing emperor could view the Taj Mahal after his son Aurangzeb confined him in the fort in 1658; he remained there until his death in 1666.",
+      "As Mughal power declined, the fort was seized by the Jats and the Marathas, and the British took it in 1803. During the 1857 uprising it served as a refuge for British residents. Under colonial rule it became a military garrison, and part of the complex is still used by the Indian Army today.",
+      "Conservation by the Archaeological Survey of India now focuses on stabilising the sandstone, restoring inlay panels, and opening more areas to visitors."
+    ],
+    "culturalSignificance": [
+      "It shows how Mughal imperial architecture developed between the reigns of Akbar and Shah Jahan.",
+      "It was the centre of political power for much of the 16th and 17th centuries.",
+      "Its design, which blends Persian and Indian traditions, influenced later Mughal forts and palaces, including the Red Fort in Delhi."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "Most of the fort is intact and open to visitors, while some areas remain under military use."
+    },
+    "constructionPeriod": "11th century origins; present fort largely 1565-1573 (Akbar), with additions to the 1640s-1650s (Shah Jahan)",
+    "architecturalStyle": "Mughal architecture (red sandstone and white marble)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNwQ8jjDK3miu9A4YD1c_BUYKdilsTTTx9pTYMpIGdgQ&s=10",
+        "alt": "Image placeholder for Agra Fort",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Agra Fort",
+        "url": "https://whc.unesco.org/en/list/251",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "ajanta-caves",
+    "slug": "ajanta-caves",
+    "name": "Ajanta Caves",
+    "location": "Near Aurangabad (Chhatrapati Sambhajinagar)",
+    "state": "Maharashtra",
+    "region": "West",
+    "featured": true,
+    "shortDescription": "Rock-cut Buddhist caves holding some of the oldest and finest surviving murals in India.",
+    "description": "The Ajanta Caves are about 30 Buddhist monasteries and shrines carved into a horseshoe-shaped basalt cliff above the Waghora river. They are famous for wall paintings that illustrate the life of the Buddha and the Jataka tales.",
+    "historicalBackground": [
+      "Ajanta was excavated in two broad phases. The earlier group, including caves 9, 10, 12, 13 and 15A, dates from roughly the 2nd century BCE to the 1st century CE during the Satavahana period. These are plain, early caves in the Hinayana (Theravada) tradition, with stupas rather than images of the Buddha.",
+      "The second phase, in the 5th century CE, took place under the Vakataka dynasty, and in particular under the patronage of Emperor Harishena (c. 475-500 CE) and his court officials. In this period monks and donors carved elaborate viharas and chaitya halls with sculpted images of the Buddha, and covered walls and ceilings with paintings.",
+      "The paintings are done in a tempera-like technique on a prepared clay-and-lime plaster. Famous scenes include the Bodhisattva Padmapani and Vajrapani in Cave 1, and the Jataka stories describing the Buddha's previous lives. They show courtly life, dress, music and ornament of the time, and have been important to the study of early Indian painting.",
+      "The caves were abandoned, possibly after the decline of Buddhism in the region and the fall of the Vakatakas, and were gradually overgrown by jungle. They were rediscovered in 1819 when a British officer, John Smith, noticed one of the caves while on a hunting trip. News of the discovery spread quickly.",
+      "From the mid-19th century copyists such as Robert Gill and later John Griffiths and his students from Bombay made copies of the murals. Many of the copies were destroyed in a fire at the Crystal Palace in London in 1866. In the 1920s the Nizam of Hyderabad financed conservation by Italian and Indian experts.",
+      "Today the caves are protected by the Archaeological Survey of India. Visitor numbers are managed, because light, humidity and breath can damage the fragile paintings."
+    ],
+    "culturalSignificance": [
+      "They are a world-renowned record of Buddhist art and monastic life in ancient India.",
+      "The murals influenced the study of painting traditions in India and in Asia.",
+      "They show the shared support of kings, ministers and merchants for religious institutions."
+    ],
+    "currentCondition": {
+      "status": "partially ruined",
+      "note": "The rock-cut structures are mostly intact, but many paintings have faded or flaked and are conserved carefully."
+    },
+    "constructionPeriod": "c. 2nd century BCE to 1st century CE, and c. 5th century CE",
+    "architecturalStyle": "Indian rock-cut architecture (Buddhist)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Ajanta Caves",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Ajanta Caves",
+        "url": "https://whc.unesco.org/en/list/242",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "archaeological-site-of-nalanda-mahavihara",
+    "slug": "archaeological-site-of-nalanda-mahavihara",
+    "name": "Archaeological Site of Nalanda Mahavihara",
+    "location": "Nalanda",
+    "state": "Bihar",
+    "region": "East",
+    "featured": false,
+    "shortDescription": "The ruins of one of the world's earliest residential universities, a major Buddhist centre of learning.",
+    "description": "Nalanda Mahavihara was a large monastic and scholastic institution with temples, stupas, monasteries and lecture halls built of brick. It attracted students and scholars from across Asia for several centuries.",
+    "historicalBackground": [
+      "Nalanda was probably founded in the Gupta period, around the 5th century CE. Tradition connects its early patronage with the Gupta ruler Kumaragupta I. The site lay on a trade route and was close to the kingdom of Magadha, where the Buddha had also taught.",
+      "In the 7th century the Chinese pilgrim Xuanzang (Hsuan-tsang) studied at Nalanda for several years, and later left a detailed description of its buildings, libraries and teachers. Another Chinese monk, Yijing, visited later in the same century. They report that thousands of monks and students lived and studied there.",
+      "The curriculum was broad. It included Buddhist philosophy of different schools, along with logic, grammar, medicine and other subjects. A complex of libraries, traditionally called Dharmaganja, is said to have held a very large number of manuscripts.",
+      "Under the Pala dynasty (8th-12th centuries), the university continued to flourish and its influence extended to Tibet, Southeast Asia and East Asia. Some of the finest bronzes and stucco sculptures from the site date from this period.",
+      "Around the end of the 12th century the monastery was attacked and burnt, traditionally attributed to the army of Bakhtiyar Khalji (c. 1193-1200). The site declined and was gradually buried and forgotten.",
+      "Systematic excavation by the Archaeological Survey of India took place from 1915-1937 and again in the 1970s-1980s. These revealed the foundations of 11 monasteries, 6 main brick temples, and numerous stupas arranged along a north-south axis. A new Nalanda University was established near the site by an Act of Parliament in 2010."
+    ],
+    "culturalSignificance": [
+      "It represents one of the earliest and most influential centres of organised higher learning in the world.",
+      "It shaped the spread of Buddhist thought and art across Asia.",
+      "Its brick monastic planning provides a model of early monastic architecture."
+    ],
+    "currentCondition": {
+      "status": "ruins",
+      "note": "The site is a well-maintained archaeological ruin where the brick foundations and stupas are visible."
+    },
+    "constructionPeriod": "c. 5th to 12th century CE",
+    "architecturalStyle": "Buddhist monastic architecture (brick)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Archaeological Site of Nalanda Mahavihara",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Archaeological Site of Nalanda Mahavihara",
+        "url": "https://whc.unesco.org/en/list/1502",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "buddhist-monuments-at-sanchi",
+    "slug": "buddhist-monuments-at-sanchi",
+    "name": "Buddhist Monuments at Sanchi",
+    "location": "Sanchi, Raisen district",
+    "state": "Madhya Pradesh",
+    "region": "Central",
+    "featured": false,
+    "shortDescription": "A hilltop group of stupas, temples and monasteries with richly carved gateways, among the oldest stone structures in India.",
+    "description": "Sanchi preserves a hilltop complex of Buddhist stupas, monasteries and temples. The Great Stupa, with its four decorated gateways, is one of the best-known early Buddhist monuments.",
+    "historicalBackground": [
+      "According to tradition, the Mauryan emperor Ashoka (reigned c. 268-232 BCE) built the original, smaller brick stupa at Sanchi in the 3rd century BCE. He also set up a polished sandstone pillar nearby. Sanchi lay near the prosperous city of Vidisha, and tradition links it to Ashoka's early life.",
+      "In the 2nd century BCE, during the Shunga period, the stupa was enlarged and encased in stone, and a railing and walkway were added. Other stupas and temples were built around it.",
+      "In the late 1st century BCE and early 1st century CE, under the Satavahanas, the four great gateways (toranas) were added. Their surfaces are covered with carved scenes from the Buddha's life and the Jataka tales. At that time the Buddha was not shown in human form, and was instead shown through symbols such as the stupa, the wheel, footprints and the Bodhi tree.",
+      "The site continued to be developed in the Gupta period, when temples such as Temple 17 appeared, and later in the early medieval period, until about the 12th century. After that it declined and was largely abandoned and overgrown.",
+      "In 1818 General Henry Taylor 'rediscovered' the site for the British. Some early explorers and treasure hunters damaged parts of the stupas. In 1912-1919, Sir John Marshall of the Archaeological Survey carried out major restoration and re-erected fallen structures. The Begums of Bhopal, notably Shah Jahan Begum and Sultan Jahan Begum, played an important role in protecting the site and supporting the museum.",
+      "Today the monuments are protected by the Archaeological Survey of India and remain an active place of pilgrimage for Buddhists, particularly during the Chaityagiri Vihara festival."
+    ],
+    "culturalSignificance": [
+      "It is the best-preserved early Buddhist stupa complex in India.",
+      "The gateway carvings are a major source for early Buddhist iconography and for everyday life in ancient India.",
+      "It demonstrates the continued development of a religious site over more than a thousand years."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The stupas and gateways survive well after 20th-century restoration, with some monasteries and temples in ruins."
+    },
+    "constructionPeriod": "3rd century BCE to 12th century CE",
+    "architecturalStyle": "Early Buddhist stupa architecture",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Buddhist Monuments at Sanchi",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Buddhist Monuments at Sanchi",
+        "url": "https://whc.unesco.org/en/list/524",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "champaner-pavagadh-archaeological-park",
+    "slug": "champaner-pavagadh-archaeological-park",
+    "name": "Champaner-Pavagadh Archaeological Park",
+    "location": "Champaner, Panchmahal district",
+    "state": "Gujarat",
+    "region": "West",
+    "featured": false,
+    "shortDescription": "A hill-and-town landscape with pre-Sultanate Hindu forts and temples and a remarkable 15th-16th century Islamic capital.",
+    "description": "The park covers the Pavagadh hill, its fortifications and temples, and the lower walled city of Champaner. It includes mosques, tombs, stepwells and palaces from the Gujarat Sultanate.",
+    "historicalBackground": [
+      "Pavagadh hill rises sharply from the plains of eastern Gujarat and has been a sacred place for a long time. A temple to Kalika Mata stands at its summit, and Jain temples occupy lower terraces. The hill was fortified by local Rajput chiefs, including Chauhan rulers, from at least the 13th-14th centuries.",
+      "In 1484 Sultan Mahmud Begada of Gujarat conquered Champaner after a long siege of the hill fort. The defeated Chauhan king, Patai Rawal, was killed according to the traditional account. Mahmud decided to build a new capital, which he called Muhammadabad, and the city grew up between about 1484 and 1535.",
+      "The sultan built a walled city with mosques, tombs, gates, water reservoirs, stepped wells and palaces. The Jami Masjid (c. 1513-1523) is the best known. Its design shows how Islamic architecture of Gujarat combined Hindu and Jain building traditions, such as carved stone pillars, beams and balconies, with Islamic elements such as domes, arches and minarets.",
+      "In 1535 the Mughal emperor Humayun captured Champaner, and the city was damaged. Afterwards the Gujarat Sultans moved their capital back to Ahmedabad. Champaner never regained its status and was left largely deserted, with its ruins overgrown.",
+      "Because the city was abandoned rather than rebuilt, its original layout survives remarkably well. The Archaeological Survey of India and other groups have conserved many monuments, and the site was inscribed by UNESCO in 2004. The Kalika Mata temple remains an important pilgrimage destination."
+    ],
+    "culturalSignificance": [
+      "It is the only complete and unchanged Islamic pre-Mughal city in India.",
+      "It combines Hindu, Jain and Islamic architecture.",
+      "The hill continues to be a living pilgrimage site."
+    ],
+    "currentCondition": {
+      "status": "partially ruined",
+      "note": "Many monuments survive in good condition, while the abandoned city is largely archaeological ruins."
+    },
+    "constructionPeriod": "8th-14th centuries (Hindu and Jain phases); c. 1484-1535 (Sultanate city)",
+    "architecturalStyle": "Indo-Islamic architecture (Gujarat Sultanate style)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Champaner-Pavagadh Archaeological Park",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Champaner-Pavagadh Archaeological Park",
+        "url": "https://whc.unesco.org/en/list/1101",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "chhatrapati-shivaji-terminus",
+    "slug": "chhatrapati-shivaji-terminus",
+    "name": "Chhatrapati Shivaji Terminus (formerly Victoria Terminus)",
+    "location": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "featured": false,
+    "shortDescription": "A flamboyant Victorian Gothic railway terminus blended with Indian architectural motifs.",
+    "description": "Chhatrapati Shivaji Terminus (CST) is a working railway station and the headquarters of Central Railway. It was designed by the British architect Frederick William Stevens and completed in 1888.",
+    "historicalBackground": [
+      "The first passenger railway in India ran from Bori Bunder in Bombay to Thane on 16 April 1853. As the Great Indian Peninsula Railway expanded, the city needed a larger terminus, and a design competition and a long planning process led to the construction of a new station on the Bori Bunder site.",
+      "Frederick William Stevens, a British architect working in Bombay, was commissioned to design the building, and the earliest sketches were prepared with the help of the draughtsman Axel Haig. Construction took about ten years, from 1878 to 1888. It was named Victoria Terminus in honour of Queen Victoria, whose Golden Jubilee fell in 1887.",
+      "The style is Victorian Italianate Gothic, an English tradition adapted to Indian conditions. The design combines stone domes, turrets, pointed arches and stained glass with Indian features such as carved stone, a central dome, and sculpture including peacocks, elephants and tigers. Local craftsmen and students from the Bombay School of Art contributed to the decoration.",
+      "In 1996 the station was renamed Chhatrapati Shivaji Terminus after the 17th-century Maratha king, and in 2017 'Maharaj' was added to the name. It was inscribed by UNESCO in 2004 as an outstanding example of Victorian Gothic Revival architecture in India.",
+      "Unlike many monuments, it is still in daily use and handles a very large volume of suburban and long-distance passengers. This makes conservation challenging, since the building must be maintained while remaining open to millions of people."
+    ],
+    "culturalSignificance": [
+      "It is a symbol of Mumbai and of the colonial-era railway network that shaped modern India.",
+      "It shows cross-cultural exchange between British and Indian craftsmanship.",
+      "It is an example of a heritage building that remains in active public use."
+    ],
+    "currentCondition": {
+      "status": "active/in use",
+      "note": "The station is well maintained and in daily use as a major railway terminus."
+    },
+    "constructionPeriod": "1878-1888",
+    "architecturalStyle": "Victorian Gothic Revival with Indian influences",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Chhatrapati Shivaji Terminus (formerly Victoria Terminus)",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Chhatrapati Shivaji Terminus (formerly Victoria Terminus)",
+        "url": "https://whc.unesco.org/en/list/945",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "churches-and-convents-of-goa",
+    "slug": "churches-and-convents-of-goa",
+    "name": "Churches and Convents of Goa",
+    "location": "Old Goa",
+    "state": "Goa",
+    "region": "West",
+    "featured": false,
+    "shortDescription": "A group of 16th-17th century Catholic churches and convents that reflect Portuguese influence in Asia.",
+    "description": "The monuments of Old Goa include the Se Cathedral, the Basilica of Bom Jesus, the Church of St Francis of Assisi and other churches and convents. They were built during the era of the Portuguese Estado da India.",
+    "historicalBackground": [
+      "In 1510, Afonso de Albuquerque captured Goa from the Adil Shahi sultanate of Bijapur, and it became the centre of Portuguese power in Asia. Old Goa grew into a major port and a city with many churches, convents, palaces and hospitals, and was sometimes called the 'Rome of the East'.",
+      "Religious orders such as the Franciscans, Dominicans, Augustinians and Jesuits settled in Goa and built large complexes. The Church of St Francis of Assisi and its adjoining convent were built by Franciscans in the 16th century.",
+      "The Se Cathedral was begun in 1562 and the work lasted for decades; it was consecrated in 1640. It is one of the largest churches in Asia, with a Tuscan exterior and a Corinthian interior. The Basilica of Bom Jesus (1594-1605) is known for housing the relics of St Francis Xavier, a Jesuit missionary who died in 1552.",
+      "The architecture adapted European Manueline, Mannerist and Baroque styles to local materials, in particular laterite stone with lime plaster. Indian craftsmen contributed carvings and decorative skills, and some details show local influence.",
+      "In the 17th and 18th centuries epidemics and the shift of trade led to the decline of Old Goa, and the capital was gradually moved to Panjim (Panaji) in the 19th century. Religious orders were suppressed in the 1830s and many buildings were abandoned. Goa joined India in 1961. Today the Archaeological Survey of India protects the churches, and several of them remain places of worship."
+    ],
+    "culturalSignificance": [
+      "They show how Catholic religious architecture was transplanted to Asia and mixed with local traditions.",
+      "They influenced church architecture in other parts of the Portuguese empire and South Asia.",
+      "The Basilica of Bom Jesus remains a major pilgrimage destination."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The main churches are well maintained, though some convents and other buildings survive only as ruins."
+    },
+    "constructionPeriod": "16th-17th centuries",
+    "architecturalStyle": "Manueline, Mannerist and Baroque (Portuguese colonial)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Churches and Convents of Goa",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Churches and Convents of Goa",
+        "url": "https://whc.unesco.org/en/list/234",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "elephanta-caves",
+    "slug": "elephanta-caves",
+    "name": "Elephanta Caves",
+    "location": "Gharapuri (Elephanta) Island, Mumbai Harbour",
+    "state": "Maharashtra",
+    "region": "West",
+    "featured": false,
+    "shortDescription": "Rock-cut cave temples dedicated to Shiva, famous for the monumental Trimurti sculpture.",
+    "description": "The Elephanta Caves are on an island in Mumbai harbour. They include a main cave with large relief panels of Shiva and a series of smaller caves, a mix of Hindu and some Buddhist remains.",
+    "historicalBackground": [
+      "Elephanta, known locally as Gharapuri, lies in the sea about 10 km east of Mumbai. Settlements existed here in ancient times, and remains of a Buddhist stupa from the early centuries CE have been found.",
+      "The main rock-cut temples are Hindu, dedicated to Shiva, and are usually dated to the 5th-8th centuries CE, most often to around the 6th century. Scholars have attributed them to various ruling groups such as the Kalachuris, Mauryas of the Konkan and the Chalukyas, but there is no certain evidence of which one commissioned them.",
+      "Cave 1, the Great Cave, is a large pillared hall cut deep into the hillside. Its most famous sculpture is the Sadashiva or Trimurti, a three-faced bust about 6 m high, showing the creator, preserver and transformer aspects of Shiva. Other panels depict Shiva as Nataraja, Shiva's marriage to Parvati, and Ravana shaking Mount Kailasa.",
+      "The island was later controlled by various rulers, and from the 16th century by the Portuguese, who gave it the name Elephanta after a large stone elephant statue found near the landing site. That statue was moved to Bombay in 1864 and is now in the Dr Bhau Daji Lad Museum in Byculla. Some sculptures were damaged over time due to neglect, weathering and conflict.",
+      "The Archaeological Survey of India took over conservation in the 20th century, and restoration work in the 1970s reassembled some fragments. Today the island is reached by ferry from Mumbai."
+    ],
+    "culturalSignificance": [
+      "It is a masterpiece of Shaiva art in India.",
+      "It documents the development of rock-cut temple architecture in western India.",
+      "It remains an important example of how Hindu iconography was expressed in monumental sculpture."
+    ],
+    "currentCondition": {
+      "status": "partially ruined",
+      "note": "The caves are intact structurally, but many sculptures are damaged or weathered."
+    },
+    "constructionPeriod": "c. 5th-8th century CE (often dated to c. 6th century)",
+    "architecturalStyle": "Indian rock-cut architecture (Shaiva)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Elephanta Caves",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Elephanta Caves",
+        "url": "https://whc.unesco.org/en/list/244",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "ellora-caves",
+    "slug": "ellora-caves",
+    "name": "Ellora Caves",
+    "location": "Near Aurangabad (Chhatrapati Sambhajinagar)",
+    "state": "Maharashtra",
+    "region": "West",
+    "featured": true,
+    "shortDescription": "A group of 34 rock-cut monasteries and temples, with the monolithic Kailasa temple as its masterpiece.",
+    "description": "Ellora has Buddhist, Hindu and Jain caves carved into a long basalt escarpment. The Kailasa temple (Cave 16) is the world's largest monolithic rock excavation of its kind.",
+    "historicalBackground": [
+      "Ellora lies on an ancient trade route across the Deccan. Its caves were carved over several centuries, from about the 6th to the 10th centuries CE, and they form a continuous sequence of Buddhist (caves 1-12), Hindu (caves 13-29) and Jain (caves 30-34) monuments.",
+      "The Buddhist caves are the earliest, from roughly the 5th-8th centuries, and include the large Vishvakarma cave (Cave 10), a chaitya hall with a ribbed ceiling and a stupa carved with a seated Buddha. They were made when Buddhism was still active in the region.",
+      "The Hindu caves are dated roughly to the 7th-10th centuries and are linked with the Kalachuris and then with the Rashtrakuta dynasty. Many are dedicated to Shiva, and they have lively sculpture panels of Shiva, Vishnu and the goddess Durga.",
+      "Cave 16, the Kailasa temple, is traditionally associated with the Rashtrakuta king Krishna I (c. 756-773 CE). Rather than being dug into a cliff, it was carved from the top downwards out of a single rock mass, creating a free-standing temple with a gateway, hall, sanctum and surrounding courtyard. It represents Mount Kailasa, the abode of Shiva, and is thought to have involved removing hundreds of thousands of tonnes of rock.",
+      "The Jain caves of the 9th-10th centuries, such as the Indra Sabha (Cave 32), are smaller but finely decorated. Together, the three religions' caves at one site show religious coexistence.",
+      "Ellora was not forgotten like Ajanta, and travellers visited the site over the centuries. Today it is protected by the Archaeological Survey of India."
+    ],
+    "culturalSignificance": [
+      "It shows the coexistence of Buddhist, Hindu and Jain traditions at one site.",
+      "The Kailasa temple is an engineering and artistic achievement of the early medieval Deccan.",
+      "It is one of the most important complexes of rock-cut architecture in the world."
+    ],
+    "currentCondition": {
+      "status": "partially ruined",
+      "note": "The caves are largely intact, with some weathering of sculpture and loss of original paint."
+    },
+    "constructionPeriod": "c. 6th-10th centuries CE",
+    "architecturalStyle": "Indian rock-cut architecture (Buddhist, Hindu and Jain)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Ellora Caves",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Ellora Caves",
+        "url": "https://whc.unesco.org/en/list/243",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "fatehpur-sikri",
+    "slug": "fatehpur-sikri",
+    "name": "Fatehpur Sikri",
+    "location": "Fatehpur Sikri, near Agra",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "featured": false,
+    "shortDescription": "Akbar's short-lived capital, a planned city of red sandstone palaces, courts and a great mosque.",
+    "description": "Fatehpur Sikri was built by Emperor Akbar as his capital between 1571 and about 1585. It is a rare, well-preserved example of Mughal city planning.",
+    "historicalBackground": [
+      "Akbar had no surviving son in his first years as emperor. He visited the Sufi saint Shaikh Salim Chishti at the village of Sikri, and the saint prophesied the birth of sons. When his son Salim (the future Jahangir) was born in 1569, Akbar decided to build a new city there as a mark of gratitude.",
+      "Construction began about 1571, and the court moved from Agra. The city was built mostly of local red sandstone and designed by the court's architects and masons, with craftsmen from Gujarat, Rajasthan and Persian-speaking lands. It was named Fatehpur ('city of victory') after Akbar's conquest of Gujarat in 1573.",
+      "The city includes the Jami Masjid, one of the largest mosques in India of its time, with the Buland Darwaza (c. 1575), a gateway about 54 m high built to commemorate the Gujarat victory. In the courtyard lies the white marble tomb of Salim Chishti, with finely carved jali screens. In the royal quarter are the Diwan-i-Am, the Diwan-i-Khas with a central carved pillar, the Panch Mahal, and palaces associated with Akbar's wives.",
+      "The architecture merges Islamic forms with Hindu and Jain features such as brackets, chhatris and carved stone beams, reflecting Akbar's inclusive policies. The Ibadat Khana, a hall where Akbar hosted religious discussions, was a place for debates between scholars of different faiths.",
+      "The court left the city around 1585, probably because of water shortage and military needs in the north-west, including Akbar's move to Lahore. Fatehpur Sikri was never fully rebuilt as a capital, and remained mostly preserved as a deserted city, with a few later visits by Jahangir. Today it is protected by the Archaeological Survey of India, and the mosque and tomb remain active religious spaces."
+    ],
+    "culturalSignificance": [
+      "It embodies Akbar's vision of cultural synthesis and Mughal imperial ideals.",
+      "It is a rare example of a planned Mughal capital that survived mostly intact.",
+      "The tomb of Salim Chishti remains an important Sufi shrine."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The city is well preserved; some secondary structures are ruined, and the mosque and tomb are still in use."
+    },
+    "constructionPeriod": "c. 1571-1585",
+    "architecturalStyle": "Mughal architecture (red sandstone, Indo-Islamic synthesis)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Fatehpur Sikri",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Fatehpur Sikri",
+        "url": "https://whc.unesco.org/en/list/255",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "great-living-chola-temples",
+    "slug": "great-living-chola-temples",
+    "name": "Great Living Chola Temples",
+    "location": "Thanjavur, Gangaikonda Cholapuram and Darasuram",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "featured": false,
+    "shortDescription": "Three grand 11th-12th century Shiva temples built by the Chola emperors, still in active worship.",
+    "description": "The property consists of the Brihadisvara temple at Thanjavur, the Brihadisvara temple at Gangaikonda Cholapuram and the Airavatesvara temple at Darasuram. They show the peak of Chola temple architecture and bronze sculpture.",
+    "historicalBackground": [
+      "The Cholas rose in the 9th century and, under Rajaraja I (reigned 985-1014) and his son Rajendra I (reigned 1014-1044), became a major imperial and naval power. Their rule extended over much of South India and Sri Lanka, with maritime expeditions reaching Southeast Asia.",
+      "Rajaraja I built the Brihadisvara (Rajarajesvara) temple at Thanjavur, completed about 1010 CE. Its vimana (tower) rises about 66 m in 13 tiers and is capped by a large stone finial. The temple stands within a large walled courtyard, and its walls carry inscriptions listing endowments and gifts and early Chola murals, which are important historical records.",
+      "Rajendra I built a new capital, Gangaikondacholapuram, to commemorate his northern campaign to the Ganges river, and founded a temple there around 1025. It echoes the Thanjavur plan, but its tower has more curved, graceful profiles.",
+      "The Airavatesvara temple at Darasuram was built in the 12th century by Rajaraja II. It is smaller but richly decorated, with a chariot-shaped mandapa, finely carved pillars and miniature panels of Shaiva saints, the Nayanmars.",
+      "All three temples follow the Dravidian tradition of a sanctum with a pyramidal tower, large halls and enclosed courtyards. They were not only places of worship but also centres of economic and cultural life, supporting dancers, musicians, scholars and craftsmen. The Chola tradition of bronze casting by the lost-wax method produced many images of deities.",
+      "The temples are 'living' because daily rituals and festivals continue. The Thanjavur temple was inscribed in 1987, and the property was extended in 2004 to include the other two."
+    ],
+    "culturalSignificance": [
+      "They represent a high point of Dravidian temple building and Chola bronze and mural art.",
+      "They are records of political and religious history through inscriptions.",
+      "They are active places of worship, continuing practices that are over a thousand years old."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The temples are well preserved and in active use, with conservation by the Archaeological Survey of India."
+    },
+    "constructionPeriod": "c. 1003-1010 (Thanjavur); c. 1025 (Gangaikondacholapuram); 12th century (Darasuram)",
+    "architecturalStyle": "Dravidian temple architecture (Chola)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Great Living Chola Temples",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Great Living Chola Temples",
+        "url": "https://whc.unesco.org/en/list/250",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "group-of-monuments-at-hampi",
+    "slug": "group-of-monuments-at-hampi",
+    "name": "Group of Monuments at Hampi",
+    "location": "Hampi",
+    "state": "Karnataka",
+    "region": "South",
+    "featured": true,
+    "shortDescription": "The surviving remains of the Vijayanagara capital spread across a dramatic boulder-strewn landscape.",
+    "description": "Hampi preserves the remains of a major urban and religious centre of the Vijayanagara Empire.",
+    "historicalBackground": [
+      "The site grew as the capital of the Vijayanagara Empire and contains religious, civic, and water-management structures.",
+      "The surviving landscape combines built remains with natural granite formations.",
+      "The Vijayanagara Empire was founded in 1336 by Harihara I and Bukka Raya, brothers from the Sangama family, in the Tungabhadra region. The area was already sacred, associated with Pampa (a local form of the goddess), and with the Virupaksha temple, which predates the empire. The kings established their capital on the south bank of the river, protected by hills, the river and massive fortifications.",
+      "Over the next two centuries the dynasties of the Sangama, Saluva, Tuluva and Aravidu ruled from here. The empire reached its height under Krishnadevaraya (reigned 1509-1529), a patron of Telugu, Kannada and Sanskrit literature. Visitors such as the Persian ambassador Abdur Razzaq (1443), the Italian Niccolo de' Conti and the Portuguese traders Domingo Paes and Fernao Nuniz described a wealthy, crowded and cosmopolitan city with bazaars, palaces and water systems.",
+      "The city had distinct zones. The sacred centre contained temples such as Virupaksha, Vitthala, Hazara Rama and Achyutaraya, with long bazaars and pushkarani (tanks). The royal centre included the Mahanavami Dibba (a platform for state ceremonies), the Lotus Mahal, the Elephant Stables, the Queen's Bath and the underground chamber. A system of canals, aqueducts and tanks distributed water from the Tungabhadra.",
+      "In January 1565 the combined forces of the Deccan sultanates defeated the Vijayanagara army under Aliya Rama Raya at the Battle of Talikota (Rakshasa-Tangadi). The victors sacked the capital over several months, and it was never restored as a capital. The surviving population dwindled and the city became a ruin.",
+      "In 1800 Colin Mackenzie, the British surveyor, documented the ruins, and later scholars and the Archaeological Survey of India recorded and conserved them. The Virupaksha temple has remained in continuous use. Hampi was inscribed by UNESCO in 1986 and was on the 'in danger' list from 1999 to 2006, because of proposed suspension bridges and other construction. Today it is a popular tourist and pilgrimage destination."
+    ],
+    "culturalSignificance": [
+      "It is a major record of Vijayanagara urbanism.",
+      "The monument group remains important for living religious practice and heritage education.",
+      "Its temples are important examples of Vijayanagara architecture and sculpture, including the stone chariot at the Vitthala temple."
+    ],
+    "currentCondition": {
+      "status": "partially ruined",
+      "note": "The monument group includes active temples as well as extensive archaeological ruins."
+    },
+    "constructionPeriod": "14th-16th centuries",
+    "architecturalStyle": "Vijayanagara architecture",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Group of Monuments at Hampi",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Group of Monuments at Hampi",
+        "url": "https://whc.unesco.org/en/list/241",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "group-of-monuments-at-mahabalipuram",
+    "slug": "group-of-monuments-at-mahabalipuram",
+    "name": "Group of Monuments at Mahabalipuram",
+    "location": "Mahabalipuram (Mamallapuram)",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "featured": false,
+    "shortDescription": "A seaside group of 7th-8th century Pallava rock-cut temples, monolithic rathas and a shore temple.",
+    "description": "The monuments at Mahabalipuram include monolithic temples called rathas, rock-cut caves, giant open-air reliefs and the Shore Temple. They were built under the Pallava dynasty on the Coromandel coast.",
+    "historicalBackground": [
+      "Mahabalipuram, also called Mamallapuram, was a port of the Pallava dynasty, whose capital was Kanchipuram. The town was active in maritime trade with Southeast Asia and other regions. The name is linked to the Pallava king Narasimhavarman I, known as Mamalla ('great wrestler'), who ruled in the 7th century (c. 630-668).",
+      "Early monuments are rock-cut cave temples, known as mandapas, with carved pillars and panels, from the time of Mahendravarman I and Narasimhavarman I. The five Pancha Rathas, named after the Pandavas and Draupadi, are monolithic temples carved from individual granite outcrops. They are thought to be models of different architectural forms and influenced later Dravidian temples.",
+      "The huge open-air relief known as the Descent of the Ganges or Arjuna's Penance is about 30 m long and 12 m high, with figures of gods, humans, animals and celestial beings carved on two large boulders. Its exact subject is still debated, as is whether it represents the descent of the river Ganga or the penance of Arjuna.",
+      "The Shore Temple, built under Narasimhavarman II (Rajasimha, c. 700-728), is a structural temple of cut granite blocks, dedicated to Shiva and Vishnu, and stands facing the Bay of Bengal. It is one of the earliest stone temples in South India. Salt-laden air and sea winds have eroded its carving over centuries.",
+      "After the Pallavas, the port declined. During the 2004 Indian Ocean tsunami, the sea receded and revealed previously hidden structures on the shore, drawing worldwide attention. The monuments were inscribed in 1984 and are conserved by the Archaeological Survey of India."
+    ],
+    "culturalSignificance": [
+      "The site documents the origin and development of Dravidian temple architecture.",
+      "It shows rock-cut and structural temple building side by side.",
+      "The sculpture is among the finest in early South Indian art."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "Most monuments survive, but exposure to the sea and salt air continues to erode the stone."
+    },
+    "constructionPeriod": "7th-8th centuries CE",
+    "architecturalStyle": "Pallava (early Dravidian) architecture",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Group of Monuments at Mahabalipuram",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Group of Monuments at Mahabalipuram",
+        "url": "https://whc.unesco.org/en/list/249",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "group-of-monuments-at-pattadakal",
+    "slug": "group-of-monuments-at-pattadakal",
+    "name": "Group of Monuments at Pattadakal",
+    "location": "Pattadakal, Bagalkot district",
+    "state": "Karnataka",
+    "region": "South",
+    "featured": false,
+    "shortDescription": "A royal temple complex of the Chalukyas, where northern and southern temple styles meet.",
+    "description": "Pattadakal has ten main temples, nine Hindu and one Jain, set beside the Malaprabha river. It was a ceremonial centre of the Badami Chalukya dynasty.",
+    "historicalBackground": [
+      "The Chalukyas of Badami ruled much of the Deccan from the 6th to the 8th centuries. Their capital was Badami (Vatapi), and nearby Aihole was an early centre of experimentation in temple form. Pattadakal, known earlier as Pattada Kisuvolal, was used for royal coronations.",
+      "The temples were built mostly in the 7th and 8th centuries. They display two distinct traditions, the northern Nagara style with curvilinear towers and the southern Dravidian style with tiered pyramidal towers. This combination makes Pattadakal a unique outdoor museum of early temple architecture.",
+      "The Virupaksha temple was built by Queen Lokamahadevi around the 740s to commemorate her husband Vikramaditya II's victory over the Pallavas of Kanchipuram. It is modelled on the Kailasanatha temple at Kanchi, and inscriptions name the sculptors who worked there. The Sangameshvara temple is somewhat earlier, and the Papanatha temple blends northern and southern features.",
+      "The sculptural panels show scenes from the Ramayana, Mahabharata and Puranas. Craftsmen from the Chalukya region may also have worked in the Pallava realm after the conquest, which helped spread architectural ideas.",
+      "After the Chalukyas, the area came under the Rashtrakutas, who added a Jain temple, and later rulers. The Archaeological Survey of India now maintains the temple group, which was inscribed by UNESCO in 1987. The Virupaksha temple is still used for worship."
+    ],
+    "culturalSignificance": [
+      "It shows the blending of northern and southern Indian temple styles.",
+      "Inscriptions record the names of architects and sculptors, which is rare in early India.",
+      "It is a landmark in the history of Indian temple architecture."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The temples are generally well preserved and are maintained by the Archaeological Survey of India."
+    },
+    "constructionPeriod": "7th-8th centuries CE",
+    "architecturalStyle": "Chalukya architecture (Nagara and Dravidian)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Group of Monuments at Pattadakal",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Group of Monuments at Pattadakal",
+        "url": "https://whc.unesco.org/en/list/239",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "hill-forts-of-rajasthan",
+    "slug": "hill-forts-of-rajasthan",
+    "name": "Hill Forts of Rajasthan",
+    "location": "Chittorgarh, Kumbhalgarh, Sawai Madhopur, Jhalawar, Jaipur and Jaisalmer",
+    "state": "Rajasthan",
+    "region": "North",
+    "featured": false,
+    "shortDescription": "Six majestic hill forts that demonstrate the military and cultural heritage of Rajput rulers.",
+    "description": "This serial site includes Chittorgarh, Kumbhalgarh, Ranthambore, Gagron, Amber and Jaisalmer forts. They are built on hills and ridges, with large walls and gates, palaces, temples and water systems.",
+    "historicalBackground": [
+      "Rajasthan was ruled by several Rajput clans, such as the Guhilas (Sisodias) of Mewar, the Chauhans, the Kachwahas of Amber, and the Bhatis of Jaisalmer. They built fortified hill settlements from about the 8th century onwards, adapting the natural terrain for defence.",
+      "Chittorgarh, on a 180 m high hill, was a capital of Mewar. It was besieged three times: by Alauddin Khalji in 1303, by Sultan Bahadur Shah of Gujarat in 1535, and by Akbar in 1567-68. Traditions of jauhar, in which women died rather than be captured, are connected with these sieges. The fort contains the Vijay Stambh (Victory Tower) built by Rana Kumbha in the 15th century and the Kirti Stambh.",
+      "Kumbhalgarh was built by Rana Kumbha in the 15th century. Its walls extend for some 36 km and are wide enough for several horsemen to ride abreast. Maharana Pratap was born here in 1540. Ranthambore, in a region of forest, was held by Chauhan rulers and attacked by Alauddin Khalji in 1301.",
+      "Gagron fort is unusual because it is surrounded by water on three sides (the Ahu and Kali Sindh rivers) and was defended by Hada Rajputs and others. Amber Fort, built from 1592 by Raja Man Singh I and extended by later rulers, is known for the Sheesh Mahal and Ganesh Pol, and shows Rajput and Mughal styles. Jaisalmer Fort, founded by Rawal Jaisal in 1156, is a living fort where many people still reside inside its yellow sandstone walls.",
+      "The forts were centres of power and trade, with temples, wells and reservoirs. After Indian independence in 1947, the princely states merged into the Indian Union, and many forts became museums or heritage hotels. The group was inscribed in 2013."
+    ],
+    "culturalSignificance": [
+      "They exemplify the Rajput tradition of fortified capitals and their ideals of valour.",
+      "They show how forts were adapted to hills, forests and deserts.",
+      "Some, like Jaisalmer, remain lived-in historic towns."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The forts are largely intact. Some, like Jaisalmer, face pressure from population and water use."
+    },
+    "constructionPeriod": "8th-18th centuries",
+    "architecturalStyle": "Rajput military architecture",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Hill Forts of Rajasthan",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Hill Forts of Rajasthan",
+        "url": "https://whc.unesco.org/en/list/247",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "historic-city-of-ahmedabad",
+    "slug": "historic-city-of-ahmedabad",
+    "name": "Historic City of Ahmedabad",
+    "location": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "West",
+    "featured": false,
+    "shortDescription": "A walled 15th-century city with mosques, havelis and traditional neighbourhoods (pols).",
+    "description": "The historic walled city of Ahmedabad was established in 1411 by Sultan Ahmad Shah I. It preserves an urban fabric of mosques, tombs, temples and timber houses.",
+    "historicalBackground": [
+      "Ahmedabad was founded in 1411 by Ahmad Shah I of the Gujarat Sultanate on the east bank of the Sabarmati river, near the older town of Asawal. It became the capital of the Gujarat Sultanate and a centre of trade and textiles.",
+      "The city was built with the Bhadra Fort at its centre, with palaces, a royal square and a mosque. Surviving monuments include the Jami Masjid (1424), Teen Darwaza, Sidi Saiyyed Mosque with its famous stone-lattice window (late 16th century), and many tombs, step-wells and smaller mosques. The architecture merges Islamic features with Hindu and Jain stone carving traditions.",
+      "The old city is organised into pols, which are closely packed neighbourhoods with gated lanes and shared courtyards, usually inhabited by people of a common occupation, religion or caste. Houses are of timber with richly carved fronts, brackets and balconies. Birds' feeders (chabutaras) and wells reflect a community-based way of living.",
+      "After the Mughal conquest in 1573, the city remained a major commercial centre. It passed to the Marathas in the 18th century and the British in 1818. In the 19th and 20th centuries it grew as a textile centre, nicknamed the 'Manchester of India'. Mahatma Gandhi established the Sabarmati Ashram nearby in 1917, and the city played a role in the independence movement.",
+      "In 2017 Ahmedabad became India's first city to be inscribed on the UNESCO World Heritage List as a living historic city. Managing modern traffic, population and building pressure in the old city remains a challenge."
+    ],
+    "culturalSignificance": [
+      "It is a rare surviving example of a medieval Indian city with an intact urban structure.",
+      "The pol system shows community-based living traditions.",
+      "It shows how Hindu, Jain and Islamic traditions coexisted."
+    ],
+    "currentCondition": {
+      "status": "active/in use",
+      "note": "A living city; many historic buildings are in daily use, while some face neglect or redevelopment pressure."
+    },
+    "constructionPeriod": "Founded 1411; main monuments 15th-16th centuries",
+    "architecturalStyle": "Indo-Islamic (Gujarat Sultanate) and traditional timber domestic architecture",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Historic City of Ahmedabad",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Historic City of Ahmedabad",
+        "url": "https://whc.unesco.org/en/list/1551",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "humayuns-tomb-delhi",
+    "slug": "humayuns-tomb-delhi",
+    "name": "Humayun's Tomb, Delhi",
+    "location": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "featured": false,
+    "shortDescription": "The first monumental garden-tomb of the Mughals, an architectural precursor to the Taj Mahal.",
+    "description": "Humayun's Tomb is a mausoleum of red sandstone and white marble set within a four-part garden (charbagh). It was built for the second Mughal emperor Humayun.",
+    "historicalBackground": [
+      "Humayun, the second Mughal emperor, died in 1556 after falling down the steps of his library, the Sher Mandal in Purana Qila, Delhi. He had earlier lost his throne to Sher Shah Suri and had spent years in exile in Persia, from where he returned in 1555 with Persian support.",
+      "His senior widow Bega Begum (also known as Haji Begum) commissioned the tomb, and construction took place between about 1565 and 1572. The architect was Mirak Mirza Ghiyas, a Persian from Herat, and his son Sayyid Muhammad. Craftsmen from Persia and from India worked together on it.",
+      "The tomb stands on a large raised platform in the middle of a four-quadrant garden, divided by water channels. This is the first large garden-tomb in the Indian subcontinent, and has features that would be developed in later Mughal tombs: a double dome, arched recesses, the use of red sandstone with white marble inlay, and a symmetrical plan.",
+      "Within the garden are other tombs, such as that of Isa Khan Niyazi, and the Barber's Tomb. In 1857, after the failure of the revolt, the last Mughal emperor Bahadur Shah Zafar took shelter in the tomb and was captured by William Hodson. After Partition in 1947 the complex was used as a refugee camp, which caused damage.",
+      "Between 2007 and 2013, the Aga Khan Trust for Culture, the Archaeological Survey of India and others carried out a major restoration, repairing plaster, cleaning stone, and restoring water channels and the garden. It was inscribed by UNESCO in 1993."
+    ],
+    "culturalSignificance": [
+      "It established the garden-tomb tradition that led to the Taj Mahal.",
+      "It shows how Persian and Indian building practices were combined in Mughal architecture.",
+      "It is an example of successful conservation involving public and private organisations."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "Extensively restored in 2007-2013; the tomb and gardens are in good condition."
+    },
+    "constructionPeriod": "c. 1565-1572",
+    "architecturalStyle": "Mughal architecture (Persian-influenced garden tomb)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Humayun's Tomb, Delhi",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Humayun's Tomb, Delhi",
+        "url": "https://whc.unesco.org/en/list/232",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "jaipur-city-rajasthan",
+    "slug": "jaipur-city-rajasthan",
+    "name": "Jaipur City, Rajasthan",
+    "location": "Jaipur",
+    "state": "Rajasthan",
+    "region": "North",
+    "featured": false,
+    "shortDescription": "A planned 18th-century walled city laid out on a grid with colonnaded bazaars and palaces.",
+    "description": "Jaipur was founded in 1727 by Maharaja Sawai Jai Singh II. It is known for its planned layout, broad streets, and the pink colour of its old city buildings.",
+    "historicalBackground": [
+      "Sawai Jai Singh II was the ruler of Amber, and wanted to move his capital because of the growing population and a shortage of water at Amber. In 1727 he founded a new city on the plains below, and called it Jaipur ('city of Jai').",
+      "The city was planned according to principles from the ancient Indian treatises on architecture, the Shilpa Shastra and Vastu Shastra, with the help of the Bengali scholar and architect Vidyadhar Bhattacharya. The plan is a grid of nine rectangular blocks (chowkris), two of which contain the palace and the administrative buildings, in a form like a mandala.",
+      "The main streets are wide, and bazaars are lined with uniform colonnaded shops. At the centre is the City Palace, with the Jantar Mantar observatory nearby. The Hawa Mahal ('Palace of Winds', 1799) was built by Maharaja Sawai Pratap Singh as a screen from which royal women could watch street processions.",
+      "In 1876, when Prince Albert Edward (later Edward VII) visited, the old city was painted in a terracotta pink colour, the traditional colour of hospitality, giving it the name 'the Pink City'. The city continued to grow and was made capital of the state of Rajasthan after independence.",
+      "Jaipur was inscribed on the UNESCO list in 2019 as an example of a planned trading city that combines Hindu, Mughal and Western ideas. The old city faces urban pressures, such as heavy traffic and modernisation."
+    ],
+    "culturalSignificance": [
+      "It is one of the best planned pre-modern cities in India.",
+      "It is a living centre of traditional crafts and trade.",
+      "It reflects the blending of Indian cosmology and urban design with Mughal and Western influences."
+    ],
+    "currentCondition": {
+      "status": "active/in use",
+      "note": "A living city; many historic buildings are in use, with conservation pressure from traffic and development."
+    },
+    "constructionPeriod": "Founded 1727",
+    "architecturalStyle": "Rajput-Mughal planned city (Vastu and Shilpa Shastra principles)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Jaipur City, Rajasthan",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Jaipur City, Rajasthan",
+        "url": "https://whc.unesco.org/en/list/1605",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "jantar-mantar-jaipur",
+    "slug": "jantar-mantar-jaipur",
+    "name": "The Jantar Mantar, Jaipur",
+    "location": "Jaipur",
+    "state": "Rajasthan",
+    "region": "North",
+    "featured": false,
+    "shortDescription": "An 18th-century astronomical observatory of giant masonry instruments.",
+    "description": "The Jantar Mantar in Jaipur is the largest and best preserved of the astronomical observatories built by Maharaja Sawai Jai Singh II. It contains about 19 fixed instruments for measuring time, tracking stars and predicting eclipses.",
+    "historicalBackground": [
+      "Sawai Jai Singh II (1688-1743) was a ruler, military commander and scholar of mathematics and astronomy. He felt that the existing astronomical tables, based on Islamic and Hindu works, were inaccurate. He studied Greek, Islamic, Hindu and European sources and had instruments made in brass first, and then in stone and masonry for greater size and accuracy.",
+      "He built five observatories, at Delhi (1724), Jaipur (completed about 1734), Ujjain, Varanasi and Mathura (the last is no longer extant). The Jaipur observatory is the largest. The instruments were built of local stone and lime-plastered masonry and marble.",
+      "The Samrat Yantra, the 'supreme instrument', is a gigantic sundial about 27 m tall. Its shadow moves several metres each hour and could tell time to an accuracy of a few seconds. Other instruments include the Jai Prakash Yantra, the Ram Yantra and the Rashivalaya Yantras, which measure the positions of the zodiac constellations.",
+      "The results were used to compile an astronomical table, the Zij-i-Muhammad Shahi, named after the Mughal emperor Muhammad Shah. Observations at Jaipur also supported making calendars and horoscopes.",
+      "After the 18th century the observatory fell into disuse and some parts were damaged. Restoration in the early 20th century and later by the Rajasthan government has repaired the instruments. The Jantar Mantar was inscribed by UNESCO in 2010 and remains an educational site."
+    ],
+    "culturalSignificance": [
+      "It is a remarkable example of scientific work in 18th-century India.",
+      "It brings together ideas from Indian, Islamic and European astronomy.",
+      "The instruments still work and are used for teaching."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The observatory is largely intact and some instruments are still usable."
+    },
+    "constructionPeriod": "c. 1724-1735",
+    "architecturalStyle": "Astronomical observatory (masonry instruments)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for The Jantar Mantar, Jaipur",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: The Jantar Mantar, Jaipur",
+        "url": "https://whc.unesco.org/en/list/1338",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "khajuraho-group-of-monuments",
+    "slug": "khajuraho-group-of-monuments",
+    "name": "Khajuraho Group of Monuments",
+    "location": "Khajuraho, Chhatarpur district",
+    "state": "Madhya Pradesh",
+    "region": "Central",
+    "featured": true,
+    "shortDescription": "A group of Hindu and Jain temples famous for their refined sandstone sculpture.",
+    "description": "Khajuraho has temples in three groups, the Western, Eastern and Southern, built under the Chandela dynasty. They are renowned for their towering spires and detailed sculpture.",
+    "historicalBackground": [
+      "Khajuraho was an important centre of the Chandela dynasty, who ruled the region of Bundelkhand between the 9th and 13th centuries. Most of the temples were built between about 950 and 1050 CE, under rulers such as Yashovarman, Dhanga, Ganda and Vidyadhara.",
+      "According to tradition there were about 85 temples spread over some 20 square kilometres, of which about 25 survive. They are built of fine-grained sandstone, mostly without mortar. Each temple stands on a high platform, and its roof rises in a series of peaks towards the main tower (shikhara), like a mountain range.",
+      "The Lakshmana temple (c. 954) is an early example of the fully developed Chandela style. The Kandariya Mahadeva temple (c. 1030) is the largest and has a tower about 30 m high with hundreds of sculptures. The Vishvanatha temple and the Parshvanath Jain temple are also major examples.",
+      "Besides gods, goddesses and celestial maidens, the walls carry scenes of daily life such as musicians, soldiers, hunters and couples. A small portion of the carvings are erotic, which scholars interpret in various ways, such as as symbolic, ritual, or as a reflection of the life of the time. They are only a small part of the sculpture.",
+      "After the 13th century the Chandelas lost power to the Delhi Sultanate, and the temples became less used. The site was brought to wider attention in 1838 by T. S. Burt, a British army engineer. The Archaeological Survey of India now maintains the monuments, which were inscribed in 1986."
+    ],
+    "culturalSignificance": [
+      "It is a major example of medieval Nagara temple architecture.",
+      "The sculpture reflects the artistic, social and religious life of central India.",
+      "It shows the religious diversity of the Chandela court, including Hindu and Jain temples."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "About 25 temples survive in good condition; others have been lost."
+    },
+    "constructionPeriod": "c. 950-1050 CE",
+    "architecturalStyle": "Nagara temple architecture (Chandela)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Khajuraho Group of Monuments",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Khajuraho Group of Monuments",
+        "url": "https://whc.unesco.org/en/list/240",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "mahabodhi-temple-complex-at-bodh-gaya",
+    "slug": "mahabodhi-temple-complex-at-bodh-gaya",
+    "name": "Mahabodhi Temple Complex at Bodh Gaya",
+    "location": "Bodh Gaya",
+    "state": "Bihar",
+    "region": "East",
+    "featured": false,
+    "shortDescription": "The site of the Buddha's enlightenment, marked by a tall brick temple beside the sacred Bodhi tree.",
+    "description": "The Mahabodhi Temple Complex includes the main temple, the Vajrasana (diamond throne), the Bodhi tree and other shrines and stupas. It is one of the holiest sites of Buddhism.",
+    "historicalBackground": [
+      "According to Buddhist tradition, Siddhartha Gautama attained enlightenment under a pipal (Bodhi) tree at Bodh Gaya, in Bihar, around the 5th century BCE. The location, near the Niranjana river, became one of the four main pilgrimage sites of Buddhism, along with Lumbini, Sarnath and Kushinagar.",
+      "Ashoka the Mauryan emperor is said to have visited Bodh Gaya around 260 BCE and to have built a shrine and a railing. A sandstone throne known as the Vajrasana is also dated to the Mauryan period. In later centuries stone railings with carvings, such as those of the Shunga period, surrounded the tree.",
+      "The present brick temple, about 50 m high, dates from the Gupta period (5th-6th century CE) with later repairs. It is one of the earliest brick temples in India still standing, and it has a tall pyramidal tower, with smaller towers at the corners. It influenced Buddhist architecture in Myanmar and other places. The Chinese pilgrim Xuanzang described the temple in the 7th century.",
+      "From the 11th to 14th centuries, Burmese rulers sent missions to repair the temple. As Buddhism declined in India, the site came under the management of Hindu mahants (priests) from the 16th century. In the 19th century Alexander Cunningham, Rajendralal Mitra and J. D. Beglar studied it, and the British restored the temple in the 1880s.",
+      "The Sri Lankan Buddhist reformer Anagarika Dharmapala started a campaign in 1891 to bring the temple back under Buddhist management. The Bodh Gaya Temple Act of 1949 created a committee of Hindus and Buddhists to manage it. The tree standing there today is regarded as a descendant of the original. The complex was inscribed in 2002."
+    ],
+    "culturalSignificance": [
+      "It is the holiest site in the Buddhist world.",
+      "It is one of the earliest examples of Indian brick temple architecture.",
+      "It is a place of pilgrimage for Buddhists from many countries."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The temple is in active worship and well maintained by the temple management committee and the Archaeological Survey of India."
+    },
+    "constructionPeriod": "3rd century BCE origins; present temple 5th-6th century CE",
+    "architecturalStyle": "Gupta-era brick temple architecture",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Mahabodhi Temple Complex at Bodh Gaya",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Mahabodhi Temple Complex at Bodh Gaya",
+        "url": "https://whc.unesco.org/en/list/1056",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "mountain-railways-of-india",
+    "slug": "mountain-railways-of-india",
+    "name": "Mountain Railways of India",
+    "location": "Darjeeling, Nilgiri hills and Kalka-Shimla",
+    "state": "West Bengal; Tamil Nadu; Himachal Pradesh",
+    "region": "Multiple (East, South and North)",
+    "featured": false,
+    "shortDescription": "Three historic hill railways that are examples of bold engineering in the Himalayas and the Western Ghats.",
+    "description": "The property consists of the Darjeeling Himalayan Railway, the Nilgiri Mountain Railway and the Kalka-Shimla Railway. Each was built in the British period to link hill stations to the plains.",
+    "historicalBackground": [
+      "In the 19th century the British developed hill stations as summer retreats and as centres for tea and other plantations. Railways were built to link them with the plains, and engineers had to deal with steep gradients and difficult terrain.",
+      "The Darjeeling Himalayan Railway in West Bengal opened in stages, reaching Darjeeling in 1881. It is a narrow-gauge line (2 ft, 610 mm) about 88 km long, famous for its loops and zig-zag reverses that gain height, and still uses steam locomotives on some services. It carried tea, goods and passengers, and was inscribed in 1999 as the first railway to be listed in Asia.",
+      "The Nilgiri Mountain Railway in Tamil Nadu, a metre-gauge line, was first proposed in the 1850s. The Mettupalayam to Coonoor section opened in 1899 and the line reached Ooty in 1908. It uses a rack-and-pinion (Abt) system on the steepest section, between Kallar and Coonoor, and is about 46 km long. It was added to the listing in 2005.",
+      "The Kalka-Shimla Railway in Himachal Pradesh, 96 km long, opened in 1903. The line is narrow gauge (2 ft 6 in, 762 mm) and has more than 100 tunnels and hundreds of bridges, including multi-arched viaducts. It was added to the listing in 2008. Shimla was the summer capital of British India.",
+      "All three lines are still in operation, and run both as public transport and as heritage tourist trains. Their maintenance, including steam locomotives, stations and bridges, requires continuing conservation effort."
+    ],
+    "culturalSignificance": [
+      "They are outstanding examples of mountain railway engineering of the 19th and early 20th centuries.",
+      "They changed the economy and society of the hill regions.",
+      "They are still working heritage railways."
+    ],
+    "currentCondition": {
+      "status": "active/in use",
+      "note": "All three lines are operational, with periodic landslide damage and ongoing conservation."
+    },
+    "constructionPeriod": "1881-1908",
+    "architecturalStyle": "Railway engineering (narrow-gauge mountain railways)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Mountain Railways of India",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Mountain Railways of India",
+        "url": "https://whc.unesco.org/en/list/944",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "qutb-minar-and-its-monuments",
+    "slug": "qutb-minar-and-its-monuments",
+    "name": "Qutb Minar and its Monuments, Delhi",
+    "location": "Mehrauli, Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "featured": false,
+    "shortDescription": "A soaring 13th-century victory tower with early Indo-Islamic mosques and tombs around it.",
+    "description": "The Qutb complex includes the Qutb Minar, the Quwwat-ul-Islam mosque, the Iron Pillar, the Alai Darwaza and tombs. It is among the earliest surviving monuments of the Delhi Sultanate.",
+    "historicalBackground": [
+      "In 1192-1193 the Ghurid forces under Muhammad of Ghor, and his general Qutbuddin Aibak, defeated the Rajput ruler Prithviraj Chauhan and captured Delhi. Aibak later became the first Sultan of Delhi, founding the Mamluk (Slave) dynasty in 1206.",
+      "The Quwwat-ul-Islam mosque, built from about 1193, is considered the earliest surviving mosque in India. It was constructed using columns and carved stone from earlier Hindu and Jain temples, with a screen of arches added later. In its courtyard stands the Iron Pillar, which dates from about the 4th-5th century CE (the Gupta period) and is known for its resistance to rust.",
+      "The Qutb Minar was begun by Qutbuddin Aibak in about 1199 and completed by his successor Iltutmish. It is about 72.5 m tall, tapers from a base diameter of about 14 m, and has five storeys with projecting balconies. Bands of Arabic inscriptions and geometric patterns decorate the red and buff sandstone. It was probably a tower of victory and possibly a minaret for the call to prayer.",
+      "Lightning damaged the top storeys in 1368, and Firuz Shah Tughlaq rebuilt them using marble and sandstone. The Alai Darwaza (1311), built by Alauddin Khalji, is a gateway with the earliest true arch and dome in India and shows the high point of early Indo-Islamic decoration. Alauddin also began the Alai Minar, which was planned to be twice as tall, but only the base was built.",
+      "In the 19th century, British officer Major Robert Smith restored the tower (1828) and added a cupola, which was later removed. The complex was inscribed in 1993. Visitors are no longer allowed to climb the tower."
+    ],
+    "culturalSignificance": [
+      "It is a major symbol of the beginning of the Delhi Sultanate.",
+      "It illustrates the early development of Indo-Islamic architecture.",
+      "The Iron Pillar is a remarkable example of ancient Indian metallurgy."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The tower and main monuments are well maintained; parts of the old mosque are ruined."
+    },
+    "constructionPeriod": "c. 1193-1368 (main phases)",
+    "architecturalStyle": "Indo-Islamic architecture (Delhi Sultanate)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Qutb Minar and its Monuments, Delhi",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Qutb Minar and its Monuments, Delhi",
+        "url": "https://whc.unesco.org/en/list/233",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "rani-ki-vav-the-queens-stepwell-at-patan",
+    "slug": "rani-ki-vav-the-queens-stepwell-at-patan",
+    "name": "Rani-ki-Vav (the Queen's Stepwell) at Patan",
+    "location": "Patan",
+    "state": "Gujarat",
+    "region": "West",
+    "featured": false,
+    "shortDescription": "An 11th-century stepwell designed like an inverted temple, with hundreds of carved sculptures.",
+    "description": "Rani-ki-Vav is a large stepwell, built as a memorial, with seven levels of stairs leading to a water tank. Its walls are decorated with sculptural panels of deities and celestial women.",
+    "historicalBackground": [
+      "Stepwells (vavs) are a form of architecture, particularly in Gujarat and Rajasthan, used to provide access to groundwater in dry regions. They were also public spaces and sometimes religious places.",
+      "Rani-ki-Vav was built around 1063 CE, in memory of King Bhimdev I of the Solanki (Chaulukya) dynasty. According to tradition it was built by his widow, Queen Udayamati, at Anahilapataka (modern Patan), then the capital.",
+      "The stepwell is about 64 m long, 20 m wide and 27 m deep. A flight of steps descends through pavilions with pillars and brackets to the well shaft. It follows a Maru-Gurjara style, and is arranged as an inverted temple, honouring the sacredness of water.",
+      "The walls hold over 500 principal sculptures and more than a thousand minor ones. Many show Vishnu in his avatars, such as the ten Dashavatara, as well as apsaras (celestial women) in various poses, including adornment. The stepwell is also decorated with Shiva figures and other deities.",
+      "Over time the nearby Saraswati river flooded and left a layer of silt that filled the stepwell, which preserved much of the sculpture. The Archaeological Survey of India excavated and restored it from the 1960s to the 1980s. It was inscribed in 2014, and its design appears on the 100 rupee banknote."
+    ],
+    "culturalSignificance": [
+      "It is a masterpiece of the stepwell tradition, combining engineering and art.",
+      "It shows the Solanki dynasty's sculptural and architectural skill.",
+      "It reflects the importance of water in Indian religion and daily life."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "Well preserved thanks to burial under silt, though the rear section has collapsed."
+    },
+    "constructionPeriod": "c. 1063 CE (11th century)",
+    "architecturalStyle": "Maru-Gurjara architecture (Solanki period stepwell)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Rani-ki-Vav (the Queen's Stepwell) at Patan",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Rani-ki-Vav (the Queen's Stepwell) at Patan",
+        "url": "https://whc.unesco.org/en/list/922",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "red-fort-complex",
+    "slug": "red-fort-complex",
+    "name": "Red Fort Complex",
+    "location": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "featured": false,
+    "shortDescription": "Shah Jahan's 17th-century palace-fort in red sandstone, the seat of Mughal power in Shahjahanabad.",
+    "description": "The Red Fort (Lal Qila) was the main residence of the Mughal emperors for about 200 years. Its walls of red sandstone surround palaces, gardens, audience halls and a mosque.",
+    "historicalBackground": [
+      "In 1638 the Mughal emperor Shah Jahan decided to move his capital from Agra to Delhi, where he founded a new city, Shahjahanabad. The fort was built next to the Yamuna between 1639 and 1648, under the direction of the architect Ustad Ahmad Lahori, to whom the Taj Mahal is also traditionally attributed.",
+      "The fort has an irregular octagonal plan, and its walls are about 2 km in circumference, rising to about 33 m on the city side. The main entrance is the Lahori Gate, leading to the Chhatta Chowk covered bazaar and to the Naubat Khana (drum house). Beyond lie the Diwan-i-Am (hall of public audience) and the Diwan-i-Khas (hall of private audience), once the site of the Peacock Throne.",
+      "The private palaces, such as the Rang Mahal and Khas Mahal, were arranged along a water channel called the Nahr-i-Bihisht ('stream of paradise'). Their design reflected Persian garden ideals. The Moti Masjid was added by Aurangzeb in 1659-1660.",
+      "In 1739 Nader Shah of Persia invaded Delhi and carried off the Peacock Throne and other treasures. Later the Marathas and then the British took control. In 1857, the Red Fort became a symbol of the Indian uprising, when Bahadur Shah Zafar was proclaimed leader. After the revolt failed, he was tried here and exiled to Burma in 1858. The British demolished many buildings and built barracks.",
+      "Trials of members of the Indian National Army were held here in 1945-46. On 15 August 1947, the national flag was raised at the fort, and since then the prime minister delivers the Independence Day address from the ramparts. The complex was inscribed by UNESCO in 2007."
+    ],
+    "culturalSignificance": [
+      "It is a major monument of Mughal architecture and a symbol of Indian nationhood.",
+      "Its planning shows the synthesis of Persian, Timurid and Indian traditions.",
+      "It is the site of the annual Independence Day address by the Prime Minister."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The main structures survive and are conserved; some Mughal buildings were lost after 1857."
+    },
+    "constructionPeriod": "1639-1648",
+    "architecturalStyle": "Mughal architecture (red sandstone and marble)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Red Fort Complex",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Red Fort Complex",
+        "url": "https://whc.unesco.org/en/list/231",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "rock-shelters-of-bhimbetka",
+    "slug": "rock-shelters-of-bhimbetka",
+    "name": "Rock Shelters of Bhimbetka",
+    "location": "Near Bhopal, Raisen district",
+    "state": "Madhya Pradesh",
+    "region": "Central",
+    "featured": false,
+    "shortDescription": "A forested sandstone hill with hundreds of rock shelters containing prehistoric paintings.",
+    "description": "The Bhimbetka rock shelters preserve paintings and evidence of human habitation from the Stone Age to the medieval period. About 750 shelters have been identified, of which more than 400 contain paintings.",
+    "historicalBackground": [
+      "The Bhimbetka hills lie at the northern edge of the Vindhya range, with natural sandstone shelters formed by weathering. The area has abundant water, game and plants, which made it attractive for prehistoric people.",
+      "Archaeologists have found Acheulean stone tools from the Lower Palaeolithic period, suggesting human presence hundreds of thousands of years ago, as well as later Middle Palaeolithic and Mesolithic tools. Some of the earliest paintings are believed to be from the Mesolithic period, about 10,000 years ago, although dating rock art is uncertain.",
+      "The paintings are done mainly in red and white, using natural mineral pigments. Earlier images show large animals such as bison, tigers and elephants, hunting and gathering scenes, dancing and ritual events. Later paintings include horse riders, soldiers with weapons, and religious symbols, indicating contact with farming societies and early historical periods.",
+      "The site was identified in 1957 by the archaeologist Vishnu Shridhar Wakankar, who was travelling by train and noticed the rock formations. Excavations in the following decades documented the sequence of occupation. The local name may relate to Bhima of the Mahabharata (Bhimbaithka, 'Bhima's seat').",
+      "The site was inscribed in 2003. Today it is protected by the Archaeological Survey of India, though some paintings are threatened by weathering, vandalism and visitor pressure."
+    ],
+    "culturalSignificance": [
+      "It is one of the largest concentrations of prehistoric rock art in South Asia.",
+      "It provides evidence of continuous human settlement over a very long period.",
+      "Local communities still hold some of the sites to be sacred."
+    ],
+    "currentCondition": {
+      "status": "partially ruined",
+      "note": "The shelters are natural and intact; many paintings have faded or been damaged by weather and visitors."
+    },
+    "constructionPeriod": "Palaeolithic to medieval (paintings mainly Mesolithic onwards)",
+    "architecturalStyle": "Prehistoric rock art (natural rock shelters)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Rock Shelters of Bhimbetka",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Rock Shelters of Bhimbetka",
+        "url": "https://whc.unesco.org/en/list/925",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "sun-temple-konarak",
+    "slug": "sun-temple-konarak",
+    "name": "Sun Temple, Konark",
+    "location": "Konark, Puri district",
+    "state": "Odisha",
+    "region": "East",
+    "featured": true,
+    "shortDescription": "A 13th-century temple designed as a colossal stone chariot of the Sun god.",
+    "description": "The Konark Sun Temple is a masterpiece of Kalinga architecture, known for its twelve pairs of carved wheels and horses. The temple's main tower has collapsed, but the surviving assembly hall and platform are richly sculpted.",
+    "historicalBackground": [
+      "The temple was built in about 1250 CE by Narasimhadeva I (reigned c. 1238-1264) of the Eastern Ganga dynasty, probably to commemorate military victories. The site is on the Bay of Bengal, near the mouth of the Chandrabhaga river. It was an important place for the worship of Surya.",
+      "The temple was conceived as a huge chariot of Surya, with 12 pairs of stone wheels (24 in all) pulled by seven horses. The wheels are about 3 m in diameter and carry intricate carvings, and the spokes can also function as sundials. The whole structure was raised on a platform and was constructed of khondalite, laterite and chlorite stones.",
+      "The original main sanctuary (rekha deul) is said to have been over 60 m high, but it collapsed, probably in the 16th-17th centuries. The causes are debated, such as structural failure, or damage in invasions, or foundation problems. What survives is the jagamohana (assembly hall) of about 30 m, along with the dance hall (natamandira) and subsidiary structures.",
+      "The walls are filled with sculptures of deities, musicians, dancers, animals, scenes of daily life and also some erotic imagery. European sailors called it the 'Black Pagoda', since it served as a landmark for ships. The Mughal chronicler Abul Fazl described the temple in the Ain-i-Akbari (1590s).",
+      "By the 19th century the temple was largely ruined and overgrown by jungle. In 1903 the British filled the jagamohana with sand to stabilise it. The Archaeological Survey of India now manages the site, and it was inscribed in 1984. Some sculptures are in the Konark Archaeological Museum and the National Museum."
+    ],
+    "culturalSignificance": [
+      "It is a landmark of Kalinga architecture and sun worship in India.",
+      "The chariot design is a remarkable symbolic and artistic idea.",
+      "The Konark wheel appears on the Indian 10 rupee note and its image is used on the Odisha tourism logo."
+    ],
+    "currentCondition": {
+      "status": "partially ruined",
+      "note": "The main sanctuary tower has collapsed; the jagamohana and platform survive and are conserved."
+    },
+    "constructionPeriod": "c. 1250 CE (13th century)",
+    "architecturalStyle": "Kalinga (Odisha) temple architecture",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Sun Temple, Konark",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Sun Temple, Konark",
+        "url": "https://whc.unesco.org/en/list/246",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "taj-mahal",
+    "slug": "taj-mahal",
+    "name": "Taj Mahal",
+    "location": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "featured": true,
+    "shortDescription": "A white marble mausoleum built by Shah Jahan for his wife Mumtaz Mahal, a masterpiece of Mughal architecture.",
+    "description": "The Taj Mahal is a white marble mausoleum on the south bank of the Yamuna. It is the centrepiece of a complex that includes a mosque, a guest house, gateways and a Mughal charbagh garden.",
+    "historicalBackground": [
+      "Arjumand Banu Begum, known as Mumtaz Mahal, the favourite wife of the Mughal emperor Shah Jahan, died in 1631 in Burhanpur while giving birth to their 14th child. The emperor was grief-stricken, and ordered a monument of unequalled beauty to be built for her.",
+      "Work began in about 1632 on a site in Agra on the Yamuna. The main mausoleum was largely complete around 1643, and the whole complex was finished by about 1653. The lead architect is traditionally said to be Ustad Ahmad Lahori, with the calligrapher Amanat Khan Shirazi, and thousands of craftsmen and labourers from India and Central Asia.",
+      "The white Makrana marble from Rajasthan was brought to Agra by animal-drawn carts, along with red sandstone from Fatehpur Sikri and semi-precious stones from various regions for the inlay work (pietra dura). The mausoleum stands on a plinth with four minarets, and is topped with a double dome about 73 m above ground. The minarets lean slightly outward so that they would fall away from the tomb in an earthquake.",
+      "The tomb faces a long reflecting pool in a 'paradise' garden, divided by water channels into four parts. Verses from the Quran in black inlaid calligraphy decorate the gateway and the mausoleum, and the letters are enlarged at higher levels so that they appear uniform from below. Shah Jahan was buried next to Mumtaz Mahal after his death in 1666.",
+      "In the 19th century the complex was neglected and damaged, and Lord Curzon, Viceroy of India, ordered major restoration around 1900-1908. Today pollution, including air pollution and the drying of the river, threatens the marble. In 1996 the Supreme Court of India imposed restrictions on polluting industries in the Taj Trapezium Zone. The Taj Mahal was inscribed in 1983."
+    ],
+    "culturalSignificance": [
+      "It is one of the most famous monuments in the world and a symbol of India.",
+      "It represents the peak of Mughal architecture, combining Persian, Islamic and Indian elements.",
+      "It continues to be a major focus of conservation and tourism."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The monument is in good condition, but it is vulnerable to air pollution and heavy tourist footfall."
+    },
+    "constructionPeriod": "c. 1632-1653",
+    "architecturalStyle": "Mughal architecture (Indo-Islamic, white marble)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Taj Mahal",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Taj Mahal",
+        "url": "https://whc.unesco.org/en/list/252",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "the-architectural-work-of-le-corbusier-capitol-complex-chandigarh",
+    "slug": "the-architectural-work-of-le-corbusier-capitol-complex-chandigarh",
+    "name": "The Architectural Work of Le Corbusier (Capitol Complex, Chandigarh)",
+    "location": "Chandigarh",
+    "state": "Chandigarh (Union Territory)",
+    "region": "North",
+    "featured": false,
+    "shortDescription": "The modernist Capitol Complex of Chandigarh, India's contribution to a multi-country listing of Le Corbusier's work.",
+    "description": "The Capitol Complex includes the Secretariat, the Legislative Assembly, the High Court, the Open Hand Monument, the Tower of Shadows and the Geometric Hill. It is part of a transnational listing of Le Corbusier's work in seven countries.",
+    "historicalBackground": [
+      "After the Partition of India in 1947, Punjab lost its capital, Lahore, to Pakistan. The Indian government decided to build a new planned capital for the state, and Prime Minister Jawaharlal Nehru supported it as a symbol of modern India.",
+      "The first plan was prepared by the American planner Albert Mayer and the architect Matthew Nowicki. After Nowicki's death in 1950, the Swiss-French architect Le Corbusier was appointed in 1951. With his cousin Pierre Jeanneret and the British architects Maxwell Fry and Jane Drew, he developed the city plan, which divided Chandigarh into self-contained sectors, and designed the Capitol Complex at its head.",
+      "The Capitol Complex was built mostly in the 1950s and 1960s. The buildings use raw exposed concrete (beton brut), large sun-shading structures, ramps and large, sculptural forms suited to the hot climate. The High Court has a large, vaulted parasol roof. The Legislative Assembly has a hyperboloid tower, and the Secretariat is a long, slab-like block.",
+      "The Open Hand Monument, a large metal sculpture, was intended as a symbol of peace and reconciliation, 'open to give, open to receive'. It has become the emblem of Chandigarh. The Tower of Shadows and the Geometric Hill are structures used to study the movement of the sun and shade.",
+      "In 2016, UNESCO inscribed 17 works by Le Corbusier in seven countries as 'The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement'. The Indian component is the Capitol Complex, which is used daily by government offices, and which requires careful maintenance."
+    ],
+    "culturalSignificance": [
+      "It is one of the largest and best-known expressions of 20th-century modernism.",
+      "It symbolises the new independent India.",
+      "Its design adapts modernist ideas to the Indian climate and context."
+    ],
+    "currentCondition": {
+      "status": "active/in use",
+      "note": "The buildings are in use as government offices and require continuous conservation of the exposed concrete."
+    },
+    "constructionPeriod": "Planned from 1951; built 1950s-1960s",
+    "architecturalStyle": "Modernist architecture (brutalist concrete)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for The Architectural Work of Le Corbusier (Capitol Complex, Chandigarh)",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement",
+        "url": "https://whc.unesco.org/en/list/1321",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "victorian-gothic-and-art-deco-ensembles-of-mumbai",
+    "slug": "victorian-gothic-and-art-deco-ensembles-of-mumbai",
+    "name": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+    "location": "South Mumbai (Fort, Oval Maidan and Marine Drive)",
+    "state": "Maharashtra",
+    "region": "West",
+    "featured": false,
+    "shortDescription": "Two sets of buildings along the Oval Maidan and Marine Drive that show Mumbai's 19th-century Gothic and 20th-century Art Deco styles.",
+    "description": "The property comprises Victorian Gothic public buildings facing the Oval Maidan, and Art Deco residential and cinema buildings along Marine Drive and Backbay. It shows the growth of Bombay as a modern port city.",
+    "historicalBackground": [
+      "Bombay grew rapidly in the 19th century as a trading port and as the centre of the cotton industry. In the 1860s a boom, linked with the American Civil War and cotton exports, and a plan to remove the old fort walls, allowed the city government to build large public buildings and open spaces.",
+      "The Victorian Gothic ensemble lies on the east side of the Oval Maidan. It includes the University of Mumbai, with the Convocation Hall, the Library and the Rajabai Clock Tower (1869-1878), designed by the British architect Sir George Gilbert Scott, who never visited India. The Bombay High Court and the Old Secretariat are also part of the group. Their pointed arches, towers and stone tracery are adapted with deep verandas, jali screens and balconies suited to the climate.",
+      "In the 1930s and 1940s, a land reclamation project along Back Bay created new land. On it, architects constructed apartment blocks, cinemas and offices in the Art Deco style, popular internationally at the time, with streamlined curves, geometric patterns and ornament. Notable buildings include the Eros and Regal cinemas and apartments along Marine Drive.",
+      "The Indian version of Art Deco, sometimes called 'Indo-Deco', includes local motifs such as lotus flowers, elephants and chhajjas. Many buildings were designed by Indian architects, and the style reflects the aspirations of a modern, cosmopolitan Mumbai. The city is often described as having one of the largest collections of Art Deco buildings in the world.",
+      "The ensemble was inscribed by UNESCO in 2018. Many of these buildings are privately owned and used daily, so their conservation involves residents, cooperative societies and government bodies."
+    ],
+    "culturalSignificance": [
+      "It shows how Indian and European architectural ideas were combined in a colonial and later independent city.",
+      "It documents the changing identity of Mumbai from a trading port to a modern metropolis.",
+      "Many buildings are still in daily use."
+    ],
+    "currentCondition": {
+      "status": "active/in use",
+      "note": "Most buildings are in use, with maintenance challenges from climate, density and ownership."
+    },
+    "constructionPeriod": "c. 1860s-1880s (Victorian Gothic); 1930s-1940s (Art Deco)",
+    "architecturalStyle": "Victorian Gothic Revival and Art Deco",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Victorian Gothic and Art Deco Ensembles of Mumbai",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Victorian Gothic and Art Deco Ensembles of Mumbai",
+        "url": "https://whc.unesco.org/en/list/1480",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "dholavira-a-harappan-city",
+    "slug": "dholavira-a-harappan-city",
+    "name": "Dholavira: a Harappan City",
+    "location": "Khadir island, Kutch district",
+    "state": "Gujarat",
+    "region": "West",
+    "featured": false,
+    "shortDescription": "The ruins of a 4,000-5,000 year old Harappan city with an advanced system of water conservation.",
+    "description": "Dholavira is one of the best-preserved urban settlements of the Indus (Harappan) civilisation in India. Its stone-built citadel, middle and lower towns, and a network of reservoirs set it apart from other sites.",
+    "historicalBackground": [
+      "The Indus or Harappan civilisation flourished across what is now Pakistan and north-west India between about 2600 and 1900 BCE, with earlier and later phases. Dholavira sits on Khadir island in the Rann of Kutch, a region of salt marshes, and was probably a hub for trade in copper, shell and beads, with links to Mesopotamia and the Gulf.",
+      "The site was discovered in 1967-68 by the archaeologist J. P. Joshi and excavated from 1990 to 2005 by the Archaeological Survey of India under R. S. Bisht. Excavations show about seven phases of occupation, from roughly 3000 BCE to 1500 BCE, with the city's peak between about 2600 and 2000 BCE.",
+      "Unlike many Harappan cities with two parts, Dholavira had three main divisions: a fortified citadel with a 'castle' and 'bailey', a middle town, and a lower town, all enclosed by stone walls. Many of the structures were built of stone rather than mud brick, because stone is abundant on the island.",
+      "The city had sophisticated water management. Because the area is dry with seasonal streams, the inhabitants built large reservoirs and channels to collect rainwater, with some stone-lined tanks. A large ground, sometimes described as a stadium, may have been used for public gatherings.",
+      "One of the finds is a large signboard with ten large letters of the still-undeciphered Indus script, probably placed over a gateway. Over time, climate change, increasing aridity and shifting trade routes may have contributed to the decline and eventual abandonment of the city. The site was inscribed by UNESCO in 2021."
+    ],
+    "culturalSignificance": [
+      "It is one of the five largest Harappan sites in the Indian subcontinent and shows urban planning in the Bronze Age.",
+      "Its water conservation system is a notable example of ancient engineering.",
+      "It provides important clues about trade and the decline of the Indus civilisation."
+    ],
+    "currentCondition": {
+      "status": "ruins",
+      "note": "An archaeological ruin; the stone walls and reservoirs are visible and conserved by the Archaeological Survey of India."
+    },
+    "constructionPeriod": "c. 3000-1500 BCE (peak c. 2600-2000 BCE)",
+    "architecturalStyle": "Harappan (Indus Valley) urban planning",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Dholavira: a Harappan City",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Dholavira: a Harappan City",
+        "url": "https://whc.unesco.org/en/list/1645",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "kakatiya-rudreshwara-ramappa-temple-telangana",
+    "slug": "kakatiya-rudreshwara-ramappa-temple-telangana",
+    "name": "Kakatiya Rudreshwara (Ramappa) Temple, Telangana",
+    "location": "Palampet, Mulugu district",
+    "state": "Telangana",
+    "region": "South",
+    "featured": false,
+    "shortDescription": "A 13th-century Shiva temple known for its fine carvings and its light floating bricks.",
+    "description": "The Ramappa Temple, officially the Rudreshwara temple, was built under the Kakatiya dynasty. It stands on a star-shaped platform inside a walled enclosure.",
+    "historicalBackground": [
+      "The Kakatiya dynasty ruled much of the Telugu-speaking region from the 12th to the early 14th century, with their capital at Orugallu (Warangal). Under rulers such as Ganapatideva they expanded their territory, and built temples, tanks and forts.",
+      "According to an inscription, the temple was built in 1213 CE by Recherla Rudra, a general of Ganapatideva. The temple is called Ramappa after its chief sculptor, Ramappa, which is unusual as temples are usually named after their deity or patron.",
+      "The temple is built of red sandstone, but the sculptures and some pillars are of finely polished black basalt, which shows details with great sharpness. The sanctum is topped by a pyramidal brick tower, made of very light, porous bricks that are said to float on water. This reduced the weight and probably helped it survive earthquakes.",
+      "The temple is raised on a six-foot high star-shaped platform, and has a large Nandi (bull) pavilion in front. The pillars, brackets and ceilings carry carvings of dancers, musicians, and mythological scenes. The 'madanika' figures (female figures) on the brackets are famous for their elegance. The Venetian traveller Marco Polo is often credited with calling it the brightest star in the galaxy of temples, but this attribution is uncertain.",
+      "After the Kakatiyas, the temple was neglected, but remained a place of worship. A 17th-century earthquake caused some damage. Conservation by the Archaeological Survey of India followed, and it was inscribed by UNESCO in 2021."
+    ],
+    "culturalSignificance": [
+      "It is a high point of Kakatiya art and architecture.",
+      "It shows an unusual building technology with the floating bricks and the sandbox foundation.",
+      "It is named after its sculptor, honouring the artist."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The temple is in good condition and still used for worship, though its surrounding structures have been lost."
+    },
+    "constructionPeriod": "1213 CE (13th century)",
+    "architecturalStyle": "Kakatiya temple architecture (Deccan)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Kakatiya Rudreshwara (Ramappa) Temple, Telangana",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Kakatiya Rudreshwara (Ramappa) Temple, Telangana",
+        "url": "https://whc.unesco.org/en/list/1570",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "sacred-ensembles-of-the-hoysalas",
+    "slug": "sacred-ensembles-of-the-hoysalas",
+    "name": "Sacred Ensembles of the Hoysalas",
+    "location": "Belur, Halebidu and Somanathapura",
+    "state": "Karnataka",
+    "region": "South",
+    "featured": false,
+    "shortDescription": "Three 12th-13th century temple complexes with star-shaped plans and extremely detailed soapstone sculpture.",
+    "description": "The listing includes the Chennakeshava temple at Belur, the Hoysaleshwara temple at Halebidu, and the Keshava temple at Somanathapura. They were built during the Hoysala dynasty.",
+    "historicalBackground": [
+      "The Hoysalas were a dynasty that ruled much of southern Karnataka from the 11th to the 14th century. They rose to prominence under Vishnuvardhana (reigned c. 1108-1152), who extended the kingdom and, according to tradition, converted from Jainism to Vaishnavism under the influence of the philosopher Ramanuja.",
+      "The Chennakeshava temple at Belur, dedicated to Vishnu, was built from around 1117 and is associated with Vishnuvardhana's victory over the Cholas at Talakad. It was a royal temple, and it has long been in continuous worship. Its doorways, pillars and ceiling are richly carved, and its bracket figures of women (madanikas) are among the best known Hoysala sculptures.",
+      "Halebidu, called Dorasamudra, was the Hoysala capital. The Hoysaleshwara temple was begun around 1121 and left unfinished after about 1160 or later, and is twin-shrined with two Shiva lingas. A long frieze of elephants, horsemen, scrolls and swans runs around the walls, and the sculptures illustrate scenes from epics.",
+      "The Keshava temple at Somanathapura was built in 1258 by Somanatha, a commander under Narasimha III, and is nearly complete and well preserved. It has three shrines with star-shaped towers on a stellate platform.",
+      "Hoysala temples are made of soapstone, which is soft when quarried and hardens on exposure, allowing very fine detail. Features include lathe-turned pillars, star-shaped plans, and multi-layered friezes. The Hoysalas were defeated by the armies of the Delhi Sultanate in the early 14th century, and the capital at Halebidu was sacked. The group was inscribed by UNESCO in 2023."
+    ],
+    "culturalSignificance": [
+      "It is the best known example of the Hoysala style of temple architecture.",
+      "The sculpture and inscriptions give insight into medieval Karnataka.",
+      "Some temples remain active centres of worship."
+    ],
+    "currentCondition": {
+      "status": "well preserved",
+      "note": "The temples are generally well preserved, although Halebidu was damaged in the past."
+    },
+    "constructionPeriod": "12th-13th centuries",
+    "architecturalStyle": "Hoysala architecture (stellate plan, soapstone)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Sacred Ensembles of the Hoysalas",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Sacred Ensembles of the Hoysalas",
+        "url": "https://whc.unesco.org/en/list/1670",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "santiniketan",
+    "slug": "santiniketan",
+    "name": "Santiniketan",
+    "location": "Santiniketan, Birbhum district",
+    "state": "West Bengal",
+    "region": "East",
+    "featured": false,
+    "shortDescription": "The educational and artistic community founded by the Tagore family, known for its distinctive campus architecture.",
+    "description": "Santiniketan began as a meditation retreat and grew into a school and university, Visva-Bharati, founded by Rabindranath Tagore. It is known for its open-air teaching and its blending of Indian and other cultural traditions.",
+    "historicalBackground": [
+      "In 1863 Maharshi Debendranath Tagore, the father of Rabindranath Tagore, established an ashram on land in Birbhum, in the countryside of West Bengal. It was meant as a place for prayer and meditation, free from images, where people of any religion could come. The Upasana Griha, a glass-walled prayer hall, was built in 1891.",
+      "In 1901 Rabindranath Tagore started an experimental school here, with classes held under trees. He wished to create an education that was close to nature and encouraged creativity, in contrast with the rote learning of colonial schools. After he won the Nobel Prize in Literature in 1913, the school drew greater attention.",
+      "Visva-Bharati was established in 1921 as an international university, bringing together learning from India and the world. It became a central university in 1951. Its departments include Kala Bhavana (art), Sangit Bhavana (music) and Cheena Bhavana (Chinese studies).",
+      "The painters Nandalal Bose, Benode Behari Mukherjee and Ramkinkar Baij taught here and developed what is sometimes called the Bengal School's later phase and early modernism. Their murals and sculptures decorate the campus. The architecture, including Uttarayan complex and the Mud House, uses local materials, mud and thatch alongside modern forms.",
+      "Santiniketan became a symbol of Tagore's cultural vision, and a pan-Asian meeting place. It was inscribed by UNESCO in 2023. It remains an active educational campus, so conservation must balance heritage, development and community use."
+    ],
+    "culturalSignificance": [
+      "It represents a unique educational and cultural experiment in modern India.",
+      "It shows an Indian modernism that combines tradition and international ideas.",
+      "It is a living campus with ongoing cultural festivals, such as the Poush Mela and Basanta Utsav."
+    ],
+    "currentCondition": {
+      "status": "active/in use",
+      "note": "A living university campus; heritage buildings are in use, with development pressure around them."
+    },
+    "constructionPeriod": "Ashram founded 1863; school 1901; Visva-Bharati 1921",
+    "architecturalStyle": "Vernacular and early modernist campus architecture",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Santiniketan",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Santiniketan",
+        "url": "https://whc.unesco.org/en/list/1375",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "moidams-the-mound-burial-system-of-the-ahom-dynasty",
+    "slug": "moidams-the-mound-burial-system-of-the-ahom-dynasty",
+    "name": "Moidams - the Mound-Burial System of the Ahom Dynasty",
+    "location": "Charaideo, Sivasagar district",
+    "state": "Assam",
+    "region": "Northeast",
+    "featured": false,
+    "shortDescription": "Earthen burial mounds of the Ahom kings and nobles, in the royal necropolis of Charaideo.",
+    "description": "The moidams are dome-shaped mounds covering burial chambers of Ahom rulers and aristocrats. Charaideo, the first Ahom capital, has the largest and most sacred of these.",
+    "historicalBackground": [
+      "The Ahoms were a Tai-speaking people who entered the Brahmaputra valley under their leader Sukaphaa in the early 13th century (traditionally 1228) and founded a kingdom with its first capital at Charaideo. They ruled Assam for almost 600 years until the British annexation in 1826, and are known for successfully resisting Mughal expansion.",
+      "Charaideo remained a sacred centre even after the capital moved. The Ahoms buried their kings and members of the royal family in moidams, a practice from their Tai heritage. The body was placed in a vaulted chamber with personal items, and according to old practice, with attendants and servants. A mound of earth was heaped on top and covered with grass or trees.",
+      "Over time the moidams grew larger and were built of brick, stone and earth, with an arched passage, an octagonal boundary wall and a pavilion on top (the chow chali). Some mounds are over 15 m high. About 90 royal moidams survive at Charaideo, together with other burial grounds in the area.",
+      "In the 17th and 18th centuries, as Hinduism became more important at the Ahom court, rulers began to prefer cremation, and burial of the ashes at Charaideo. Some moidams were reportedly looted during invasions, including by the forces of the Mughal general Mir Jumla in 1662-63, according to the chronicles.",
+      "The moidams are still considered sacred, and rituals are performed there. They are also part of the identity of the Assamese people. In July 2024 they were inscribed by UNESCO, the first cultural site from North-East India to be added to the list."
+    ],
+    "culturalSignificance": [
+      "It shows a distinct mound-burial tradition of the Ahom dynasty.",
+      "It represents the history of the Tai-Ahom people in Assam.",
+      "It is a sacred site for the community."
+    ],
+    "currentCondition": {
+      "status": "partially ruined",
+      "note": "Many mounds survive in grassy hills; some are damaged by erosion, vegetation and past looting."
+    },
+    "constructionPeriod": "13th-19th centuries",
+    "architecturalStyle": "Ahom mound-burial architecture",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Moidams - the Mound-Burial System of the Ahom Dynasty",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Moidams - the Mound-Burial System of the Ahom Dynasty",
+        "url": "https://whc.unesco.org/en/list/1818",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "maratha-military-landscapes-of-india",
+    "slug": "maratha-military-landscapes-of-india",
+    "name": "Maratha Military Landscapes of India",
+    "location": "Twelve forts across Maharashtra and Gingee in Tamil Nadu",
+    "state": "Maharashtra; Tamil Nadu",
+    "region": "West",
+    "featured": false,
+    "shortDescription": "A network of twelve 17th-19th century forts that expressed Maratha military strategy.",
+    "description": "The group includes the forts of Salher, Shivneri, Lohgad, Khanderi, Raigad, Rajgad, Pratapgad, Suvarnadurg, Panhala, Vijaydurg, Sindhudurg and Gingee. They use hills, forests, coasts and islands for defence.",
+    "historicalBackground": [
+      "The Maratha state was founded by Shivaji Bhonsle (1630-1680), who built a kingdom in the Sahyadri hills and the Konkan coast against the Adil Shahi, Mughal and Siddi powers. He was crowned Chhatrapati at Raigad in 1674. His strategies emphasised guerrilla warfare, fast movement and a network of forts.",
+      "The forts fall into types. Hill forts such as Salher, Rajgad, Raigad, Pratapgad and Shivneri use the steep Sahyadri ranges. Plateau forts, such as Panhala, were large bases. Coastal and island forts, such as Sindhudurg, Suvarnadurg, Vijaydurg and Khanderi, protected the Konkan coast and supported a navy. Gingee in Tamil Nadu, taken by Maratha forces in 1677, is a hill fortress in the south.",
+      "Raigad served as the capital, and houses the remains of the royal court and palace. Shivaji was buried there after his death in 1680. Sindhudurg, built from 1664 on an island off Malvan, has thick walls and was used to protect the sea route. Pratapgad is famous as the setting of Shivaji's encounter with the Bijapur general Afzal Khan in 1659.",
+      "The Marathas continued to use and extend the forts under later leaders and the Peshwas in the 18th century. After the Anglo-Maratha wars, the British took control of many in the early 19th century and in some cases dismantled their defences.",
+      "In July 2025 the group was inscribed by UNESCO as India's 44th World Heritage Site. The forts are maintained by the Archaeological Survey of India and state agencies, and are important in local history and tourism."
+    ],
+    "culturalSignificance": [
+      "It shows a strategic use of landscape in military architecture.",
+      "It is an important part of the identity and history of Maharashtra.",
+      "It represents the Maratha empire's land and sea defence."
+    ],
+    "currentCondition": {
+      "status": "partially ruined",
+      "note": "Condition varies by fort; some are well preserved while others are partly ruined."
+    },
+    "constructionPeriod": "17th-19th centuries",
+    "architecturalStyle": "Maratha military architecture (hill, plateau, coastal and island forts)",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Maratha Military Landscapes of India",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO: Maratha Military Landscapes of India",
+        "url": "https://whc.unesco.org/en/list/1739",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "ancient-buddhist-site-of-sarnath",
+    "slug": "ancient-buddhist-site-of-sarnath",
+    "name": "Ancient Buddhist Site of Sarnath",
+    "location": "Sarnath, near Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "featured": false,
+    "shortDescription": "The site of the Buddha's first sermon, with stupas, monastery ruins and the Ashokan pillar.",
+    "description": "Sarnath is where, according to Buddhist tradition, the Buddha gave his first teaching after enlightenment. The site has the Dhamek Stupa, remains of monasteries and temples, and the base of an Ashokan pillar.",
+    "historicalBackground": [
+      "After his enlightenment at Bodh Gaya, the Buddha is said to have travelled to the Deer Park at Isipatana (modern Sarnath), near Varanasi, and delivered his first sermon, the Dhammachakkappavattana Sutta, to five ascetics. This event, the 'turning of the wheel of dharma', marks the beginning of the Buddhist community (sangha).",
+      "In the 3rd century BCE the Mauryan emperor Ashoka built monuments at Sarnath, including a polished sandstone pillar surmounted by a lion capital with four lions facing outwards. The capital is now in the Sarnath Museum, and was adopted as India's national emblem in 1950.",
+      "Over later centuries Sarnath developed into a large monastic centre. The Dhamek Stupa, about 33 m high, was built in the Gupta period (around the 5th-6th century CE) over an earlier structure. The Dharmarajika stupa and the Mulagandha Kuti vihara are other important structures. In the Gupta period Sarnath was also known for a school of Buddha sculpture, whose seated Buddha in teaching posture is celebrated. The Chinese pilgrim Xuanzang described a thriving community in the 7th century.",
+      "In the 12th century, Queen Kumaradevi of the Gahadavala dynasty built a large monastery, and the site was in use until it was attacked and burned around 1194. Sarnath fell into ruin, and bricks were removed from the ruins for building. In 1794 workers of Jagat Singh, minister to the Raja of Benares, dismantled the Dharmarajika stupa for bricks and found a relic casket.",
+      "Systematic study started with Alexander Cunningham in 1835-36, followed by excavations led by F. O. Oertel (1904-05), John Marshall and Daya Ram Sahni. These revealed monasteries, stupas and sculptures. In July 2026 Sarnath was inscribed by the World Heritage Committee as India's 45th World Heritage Site, so its UNESCO record and dossier are very recent and worth checking again when you finalise the project."
+    ],
+    "culturalSignificance": [
+      "It is one of the four principal Buddhist pilgrimage sites.",
+      "It is the source of the lion capital used as India's national emblem.",
+      "It documents the development of Buddhist art and monasteries from the Mauryan period to the 12th century."
+    ],
+    "currentCondition": {
+      "status": "ruins",
+      "note": "An archaeological site with the Dhamek Stupa still standing and other monuments in ruins."
+    },
+    "constructionPeriod": "3rd century BCE to 12th century CE",
+    "architecturalStyle": "Buddhist stupa and monastic architecture",
+    "modelAvailability": "unavailable",
+    "thumbnail": "/images/fallback.svg",
+    "photographs": [
+      {
+        "url": "/images/fallback.svg",
+        "alt": "Image placeholder for Ancient Buddhist Site of Sarnath",
+        "caption": "A licensed site photograph will be added after asset review.",
+        "type": "present",
+        "credit": "Local fallback graphic",
+        "license": "Project-created placeholder",
+        "sourceUrl": null
+      }
+    ],
+    "historicalPhotographs": [],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "UNESCO World Heritage Centre: States Parties - India (check for the Sarnath record)",
+        "url": "https://whc.unesco.org/en/statesparties/in",
+        "type": "official"
+      }
+    ]
+  }
+]

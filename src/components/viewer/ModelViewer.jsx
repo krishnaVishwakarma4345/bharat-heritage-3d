@@ -3,6 +3,8 @@ import { Canvas } from '@react-three/fiber'
 import { Bounds, Center, OrbitControls } from '@react-three/drei'
 import Model from './Model'
 import IllustrativeModel from './IllustrativeModel'
+import SketchfabViewer from './SketchfabViewer'
+import ExternalModelViewer from './ExternalModelViewer'
 import ViewerErrorBoundary from './ViewerErrorBoundary'
 import ViewerLoader from './ViewerLoader'
 import useWebGLSupport from '../../hooks/useWebGLSupport'
@@ -26,6 +28,14 @@ function Scene({ path, modelType, controlsRef }) {
 function ModelViewer({ path, modelType = 'glb', attribution }) {
   const controlsRef = useRef(null)
   const webGLSupported = useWebGLSupport()
+
+  if (modelType === 'sketchfab') {
+    return <SketchfabViewer embedUrl={path} attribution={attribution} />
+  }
+
+  if (modelType === 'tripo') {
+    return <ExternalModelViewer modelUrl={path} attribution={attribution} provider="Tripo" />
+  }
 
   if (webGLSupported === null) {
     return <div className="flex min-h-80 items-center justify-center rounded-2xl bg-bronze-900 text-sm text-ivory/75">Checking 3D support…</div>

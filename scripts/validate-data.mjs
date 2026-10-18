@@ -40,8 +40,8 @@ for (const monument of data) {
   if (monument.modelAvailability === 'available' && !monument.modelAttribution) {
     errors.push(`${monument.slug} needs modelAttribution when a model is available.`)
   }
-  if (monument.modelAvailability === 'available' && !['glb', 'illustrative'].includes(monument.modelType)) {
-    errors.push(`${monument.slug} needs modelType set to glb or illustrative.`)
+  if (monument.modelAvailability === 'available' && !['glb', 'illustrative', 'sketchfab', 'tripo'].includes(monument.modelType)) {
+    errors.push(`${monument.slug} needs modelType set to glb, illustrative, sketchfab, or tripo.`)
   }
   if (monument.modelType === 'glb' && !monument.modelPath) {
     errors.push(`${monument.slug} needs modelPath when modelType is glb.`)
@@ -55,6 +55,12 @@ for (const monument of data) {
   }
   if (monument.modelType === 'illustrative' && monument.modelPath) {
     errors.push(`${monument.slug} must not define modelPath for an illustrative model.`)
+  }
+  if (monument.modelType === 'sketchfab' && (!monument.modelPath || !monument.modelPath.includes('sketchfab.com/models/'))) {
+    errors.push(`${monument.slug} needs a valid Sketchfab embed URL.`)
+  }
+  if (monument.modelType === 'tripo' && (!monument.modelPath || !monument.modelPath.startsWith('https://studio.tripo3d.ai/3d-model/'))) {
+    errors.push(`${monument.slug} needs a valid Tripo model URL.`)
   }
   if (!Array.isArray(monument.photographs) || !Array.isArray(monument.sources)) {
     errors.push(`${monument.slug} must define photographs and sources as arrays.`)

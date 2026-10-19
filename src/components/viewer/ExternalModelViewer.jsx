@@ -1,24 +1,22 @@
 function ExternalModelViewer({ modelUrl, attribution, provider }) {
   return (
-    <div className="overflow-hidden rounded-2xl border border-bronze/15 bg-bronze-900">
-      <div className="aspect-[4/3] min-h-[22rem] sm:min-h-[30rem]">
+    <div className="overflow-hidden rounded-3xl border border-bronze/15 bg-bronze-900 shadow-[0_18px_50px_rgba(63,39,25,0.18)]">
+      <div className="flex items-center justify-between border-b border-ivory/10 px-4 py-3">
+        <div>
+          <p className="text-[0.65rem] font-bold uppercase tracking-[0.22em] text-sandstone">Interactive model</p>
+          <p className="mt-1 text-sm font-semibold text-ivory">{attribution?.title ?? 'Monument model'}</p>
+        </div>
+        <span className="rounded-full border border-ivory/15 px-2.5 py-1 text-[0.65rem] font-semibold uppercase tracking-wider text-ivory/60">{provider}</span>
+      </div>
+      <div className="aspect-square min-h-[22rem] w-full sm:min-h-[30rem]">
         <iframe
           title={attribution?.title ?? 'External 3D monument model'}
           src={modelUrl}
           className="h-full w-full border-0"
           allow="autoplay; fullscreen; xr-spatial-tracking; camera; microphone"
           allowFullScreen
+          loading="lazy"
         />
-      </div>
-      <div className="border-t border-ivory/10 p-4 text-xs leading-5 text-ivory/70">
-        <p>Rotate, zoom, and inspect the model using the controls provided by {provider}.</p>
-        {attribution && (
-          <p className="mt-2">
-            Model: {attribution.author} · {attribution.license}
-            {attribution.sourceUrl && <> · <a className="underline" href={attribution.sourceUrl} target="_blank" rel="noreferrer">Source</a></>}
-          </p>
-        )}
-        <p className="mt-2 text-ivory/55">External viewer. Accuracy and licence details must be confirmed from the source page.</p>
       </div>
     </div>
   )

@@ -51,8 +51,8 @@ function ModelViewer({ path, modelType = 'glb', attribution }) {
   }
 
   return (
-    <div className="overflow-hidden rounded-2xl border border-bronze/15 bg-bronze-900">
-      <div className="relative h-[22rem] sm:h-[30rem]">
+    <div className="overflow-hidden rounded-3xl border border-bronze/15 bg-bronze-900 shadow-[0_18px_50px_rgba(63,39,25,0.18)]">
+      <div className="relative h-[24rem] sm:h-[32rem]">
         <ViewerErrorBoundary>
           <Canvas camera={{ position: [4, 3, 5], fov: 45 }} dpr={[1, 2]}>
             <Suspense fallback={<ViewerLoader />}>
@@ -61,8 +61,7 @@ function ModelViewer({ path, modelType = 'glb', attribution }) {
           </Canvas>
         </ViewerErrorBoundary>
       </div>
-      <div className="flex flex-wrap items-center justify-between gap-3 border-t border-ivory/10 p-4">
-        <p className="text-xs text-ivory/65">Drag to rotate · Scroll or pinch to zoom</p>
+      <div className="flex justify-end border-t border-ivory/10 p-3">
         <Button
           variant="secondary"
           className="border-ivory/30 text-ivory hover:bg-ivory/10"
@@ -71,13 +70,6 @@ function ModelViewer({ path, modelType = 'glb', attribution }) {
           Reset view
         </Button>
       </div>
-      {attribution && (
-        <p className="border-t border-ivory/10 px-4 py-3 text-xs leading-5 text-ivory/65">
-          Model: {attribution.author} · {attribution.license}
-          {attribution.sourceUrl && <> · <a className="underline" href={attribution.sourceUrl} target="_blank" rel="noreferrer">Source</a></>}
-          <br />{modelType === 'illustrative' ? 'Illustrative study model. Not a verified reconstruction.' : `${attribution.accuracy ?? 'Model may be simplified or approximate.'}`}
-        </p>
-      )}
     </div>
   )
 }

@@ -28,7 +28,7 @@ function MonumentPage() {
     <section className="page-container py-12 sm:py-16">
       <Link to="/explore" className="text-sm font-semibold text-bronze underline underline-offset-4">← Back to Explore</Link>
       <div className="mt-8"><MonumentHeader monument={monument} /></div>
-      <div className="mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
+      <div className="mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_380px]">
         <div className="space-y-8">
           <InfoSection title="Overview"><p>{monument.description}</p></InfoSection>
           <InfoSection title="Historical background"><ul className="list-disc space-y-3 pl-5">{monument.historicalBackground.map((item) => <li key={item}>{item}</li>)}</ul></InfoSection>

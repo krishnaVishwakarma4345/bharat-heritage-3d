@@ -28,16 +28,7 @@
     },
     "constructionPeriod": "11th century origins; present fort largely 1565-1573 (Akbar), with additions to the 1640s-1650s (Shah Jahan)",
     "architecturalStyle": "Mughal architecture (red sandstone and white marble)",
-    "modelAvailability": "available",
-    "modelType": "tripo",
-    "modelPath": "https://studio.tripo3d.ai/3d-model/183a1ce5-9081-479d-9418-5396154903e9?invite_code=H0JJSM",
-    "modelAttribution": {
-      "title": "Historic Fort Gate 3D Model",
-      "author": "Tripo AI model link provided by the project owner",
-      "license": "Tripo-hosted model; verify usage rights before deployment",
-      "sourceUrl": "https://studio.tripo3d.ai/3d-model/183a1ce5-9081-479d-9418-5396154903e9?invite_code=H0JJSM",
-      "accuracy": "External AI-generated model; accuracy not independently verified."
-    },
+    "modelAvailability": "unavailable",
     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Agra_Fort_Full_View.jpg",
     "historicalPhotographs": [],
     "sources": [
@@ -571,7 +562,16 @@
     },
     "constructionPeriod": "3rd century BCE to 12th century CE",
     "architecturalStyle": "Early Buddhist stupa architecture",
-    "modelAvailability": "unavailable",
+    "modelAvailability": "available",
+    "modelType": "sketchfab",
+    "modelPath": "https://sketchfab.com/models/a8347d4f5272439bb2396ea40551cfc9/embed",
+    "modelAttribution": {
+      "title": "The Great Stupa at Sanchi",
+      "author": "Sketchfab creator (see source page)",
+      "license": "Sketchfab licence; verify on source page",
+      "sourceUrl": "https://sketchfab.com/3d-models/the-great-stupa-at-sanchi-a8347d4f5272439bb2396ea40551cfc9",
+      "accuracy": "External creator model; accuracy not independently verified."
+    },
     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanchi_Stupa_full_view.jpg",
     "historicalPhotographs": [],
     "sources": [
@@ -1252,7 +1252,16 @@
     },
     "constructionPeriod": "c. 5th-8th century CE (often dated to c. 6th century)",
     "architecturalStyle": "Indian rock-cut architecture (Shaiva)",
-    "modelAvailability": "unavailable",
+    "modelAvailability": "available",
+    "modelType": "sketchfab",
+    "modelPath": "https://sketchfab.com/models/b3152003546c44e49b7e0d5bcedd6193/embed",
+    "modelAttribution": {
+      "title": "Elephanta Caves, Mumbai, India",
+      "author": "Sketchfab creator (see source page)",
+      "license": "Sketchfab licence; verify on source page",
+      "sourceUrl": "https://sketchfab.com/3d-models/elephanta-caves-mumbai-india-b3152003546c44e49b7e0d5bcedd6193",
+      "accuracy": "External creator model; accuracy not independently verified."
+    },
     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Elephanta_Caves_entrance.jpg",
     "historicalPhotographs": [],
     "sources": [
@@ -1428,7 +1437,7 @@
       "title": "Ellora Caves | India",
       "author": "Graphic solutions (@hermes3)",
       "license": "Sketchfab licence; verify on source page",
-      "sourceUrl": "https://skfb.ly/6QTRA",
+      "sourceUrl": "https://sketchfab.com/3d-models/ellora-caves-india-1a5ec1e212f9451e80dc051e97164d17",
       "accuracy": "External creator model; accuracy not independently verified."
     },
     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/KailasaTemple-Cave-16-Ellora-Maharashtra-JM14.jpg",
@@ -1883,7 +1892,16 @@
     },
     "constructionPeriod": "14th-16th centuries",
     "architecturalStyle": "Vijayanagara architecture",
-    "modelAvailability": "unavailable",
+    "modelAvailability": "available",
+    "modelType": "sketchfab",
+    "modelPath": "https://sketchfab.com/models/1e8e9212dc874323af8d21c14d553f85/embed",
+    "modelAttribution": {
+      "title": "Hampi Chariot, Memento of Honor",
+      "author": "Sketchfab creator (see source page)",
+      "license": "Sketchfab licence; verify on source page",
+      "sourceUrl": "https://sketchfab.com/3d-models/hampi-chariot-momento-of-honor-1e8e9212dc874323af8d21c14d553f85",
+      "accuracy": "External creator model of the Stone Chariot; accuracy not independently verified."
+    },
     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Virupaksha_Temple-Hampi.jpg",
     "historicalPhotographs": [],
     "sources": [
@@ -1896,67 +1914,85 @@
     ],
     "photographs": [
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/100-columned%20Hall.jpg",
-        "alt": "Group of Monuments at Hampi: 100-columned Hall.jpg",
-        "caption": "100-columned Hall.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi_-_Hemakuta_Hill,_Virupaksha_Temple.jpg?width=1280",
+        "alt": "Group of Monuments at Hampi: Hampi - Hemakuta Hill, Virupaksha Temple",
+        "caption": "Hampi - Hemakuta Hill, Virupaksha Temple",
         "type": "present",
-        "credit": "Photographer and licence: see source page",
+        "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:100-columned_Hall.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi_-_Hemakuta_Hill,_Virupaksha_Temple.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1047%20Hampi%202006-02-20%2011-55-29%20%2810552053386%29.jpg",
-        "alt": "Group of Monuments at Hampi: 1047 Hampi 2006-02-20 11-55-29 (10552053386).jpg",
-        "caption": "1047 Hampi 2006-02-20 11-55-29 (10552053386).jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi_virupaksha_temple.jpg?width=1280",
+        "alt": "Group of Monuments at Hampi: Hampi virupaksha temple",
+        "caption": "Hampi virupaksha temple",
         "type": "present",
-        "credit": "Photographer and licence: see source page",
+        "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1047_Hampi_2006-02-20_11-55-29_(10552053386).jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi_virupaksha_temple.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20monument%20of%20Hampi%204.jpg",
-        "alt": "Group of Monuments at Hampi: A monument of Hampi 4.jpg",
-        "caption": "A monument of Hampi 4.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi_Virupaksha_Temple_landscape_view.jpg?width=1280",
+        "alt": "Group of Monuments at Hampi: Hampi Virupaksha Temple landscape view",
+        "caption": "Hampi Virupaksha Temple landscape view",
         "type": "present",
-        "credit": "Photographer and licence: see source page",
+        "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_monument_of_Hampi_4.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi_Virupaksha_Temple_landscape_view.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20monument%20of%20Hampi%205.jpg",
-        "alt": "Group of Monuments at Hampi: A monument of Hampi 5.jpg",
-        "caption": "A monument of Hampi 5.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi_Vitthala_Temple_3465.jpg?width=1280",
+        "alt": "Group of Monuments at Hampi: Hampi Vitthala Temple 3465",
+        "caption": "Hampi Vitthala Temple 3465",
         "type": "present",
-        "credit": "Photographer and licence: see source page",
+        "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_monument_of_Hampi_5.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi_Vitthala_Temple_3465.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20monument%20of%20Hampi%206.jpg",
-        "alt": "Group of Monuments at Hampi: A monument of Hampi 6.jpg",
-        "caption": "A monument of Hampi 6.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_elegant_stone_chariot.jpg?width=1280",
+        "alt": "Group of Monuments at Hampi: The elegant stone chariot",
+        "caption": "The elegant stone chariot",
         "type": "present",
-        "credit": "Photographer and licence: see source page",
+        "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_monument_of_Hampi_6.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_elegant_stone_chariot.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20monument%20of%20Hampi%207.jpg",
-        "alt": "Group of Monuments at Hampi: A monument of Hampi 7.jpg",
-        "caption": "A monument of Hampi 7.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lotus_Mahal_Pavilion_MS.jpg?width=1280",
+        "alt": "Group of Monuments at Hampi: Lotus Mahal Pavilion MS",
+        "caption": "Lotus Mahal Pavilion MS",
         "type": "present",
-        "credit": "Photographer and licence: see source page",
+        "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_monument_of_Hampi_7.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lotus_Mahal_Pavilion_MS.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Entry%20Gate%20to%20Hampi%2C%20Karnataka.jpg",
-        "alt": "Group of Monuments at Hampi: Ancient Entry Gate to Hampi, Karnataka.jpg",
-        "caption": "Ancient Entry Gate to Hampi, Karnataka.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahanavami_Dibba1.jpg?width=1280",
+        "alt": "Group of Monuments at Hampi: Mahanavami Dibba1",
+        "caption": "Mahanavami Dibba1",
         "type": "present",
-        "credit": "Photographer and licence: see source page",
+        "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ancient_Entry_Gate_to_Hampi,_Karnataka.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahanavami_Dibba1.jpg?width=1280"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_temple_Hazara_Rama_(Hampi,_Inde)_(14302319731).jpg?width=1280",
+        "alt": "Group of Monuments at Hampi: Le temple Hazara Rama (Hampi, Inde) (14302319731)",
+        "caption": "Le temple Hazara Rama (Hampi, Inde) (14302319731)",
+        "type": "present",
+        "credit": "Photographer and licence: see Wikimedia Commons file page",
+        "license": "Pending verification on source page",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_temple_Hazara_Rama_(Hampi,_Inde)_(14302319731).jpg?width=1280"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi,_India,_View_of_Hampi_Bazaar_from_Matanga_Hill.jpg?width=1280",
+        "alt": "Group of Monuments at Hampi: Hampi, India, View of Hampi Bazaar from Matanga Hill",
+        "caption": "Hampi, India, View of Hampi Bazaar from Matanga Hill",
+        "type": "present",
+        "credit": "Photographer and licence: see Wikimedia Commons file page",
+        "license": "Pending verification on source page",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi,_India,_View_of_Hampi_Bazaar_from_Matanga_Hill.jpg?width=1280"
       }
     ]
   },
@@ -1988,7 +2024,16 @@
     },
     "constructionPeriod": "7th-8th centuries CE",
     "architecturalStyle": "Pallava (early Dravidian) architecture",
-    "modelAvailability": "unavailable",
+    "modelAvailability": "available",
+    "modelType": "sketchfab",
+    "modelPath": "https://sketchfab.com/models/4a6a5c0795034b7fa91bbbd384b5ab28/embed",
+    "modelAttribution": {
+      "title": "Shore Temple, Mamallapuram",
+      "author": "Sketchfab creator (see source page)",
+      "license": "Sketchfab licence; verify on source page",
+      "sourceUrl": "https://sketchfab.com/3d-models/shore-temple-mamallapurammahabalipuram-4a6a5c0795034b7fa91bbbd384b5ab28",
+      "accuracy": "External creator model; accuracy not independently verified."
+    },
     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahabalipuram-Shore_Temple-WUS01964.jpg",
     "historicalPhotographs": [],
     "sources": [
@@ -3038,7 +3083,16 @@
     },
     "constructionPeriod": "c. 1193-1368 (main phases)",
     "architecturalStyle": "Indo-Islamic architecture (Delhi Sultanate)",
-    "modelAvailability": "unavailable",
+    "modelAvailability": "available",
+    "modelType": "sketchfab",
+    "modelPath": "https://sketchfab.com/models/8777afc0c80549d1abb7c0f28832bb4b/embed",
+    "modelAttribution": {
+      "title": "Qutub Minar",
+      "author": "Sketchfab creator (see source page)",
+      "license": "Sketchfab licence; verify on source page",
+      "sourceUrl": "https://sketchfab.com/3d-models/qutubminar-8777afc0c80549d1abb7c0f28832bb4b",
+      "accuracy": "External creator model; accuracy not independently verified."
+    },
     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Full_view_of_the_Qutub_Minar.jpg",
     "historicalPhotographs": [],
     "sources": [
@@ -3143,7 +3197,16 @@
     },
     "constructionPeriod": "c. 1063 CE (11th century)",
     "architecturalStyle": "Maru-Gurjara architecture (Solanki period stepwell)",
-    "modelAvailability": "unavailable",
+    "modelAvailability": "available",
+    "modelType": "sketchfab",
+    "modelPath": "https://sketchfab.com/models/507638981ef94661a9adb680040f7de1/embed",
+    "modelAttribution": {
+      "title": "Rani-ki-Vav",
+      "author": "Sketchfab creator (see source page)",
+      "license": "Sketchfab licence; verify on source page",
+      "sourceUrl": "https://sketchfab.com/3d-models/rani-ki-vav-507638981ef94661a9adb680040f7de1",
+      "accuracy": "AI-generated model; historical accuracy not established."
+    },
     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Full_View_of_Rani_Ki_Vav_(Step_Well).JPG",
     "historicalPhotographs": [],
     "sources": [
@@ -3366,67 +3429,76 @@
     ],
     "photographs": [
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Bas-relief%20on%20the%20rocks%20in%20Mahabalipour%2C%22%20by%20H.%20Clerget%2C%20from%20%27Le%20Tour%20du%20Monde%27%2C%201869%20a.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Bas relief on the rocks in Mahabalipour,\" by H. Clerget, from 'Le Tour du Monde', 1869 a",
-        "caption": "Bas relief on the rocks in Mahabalipour,\" by H. Clerget, from 'Le Tour du Monde', 1869 a â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhimbetka_rock_shelter_paintings.jpg?width=1280",
+        "alt": "Rock Shelters of Bhimbetka: Bhimbetka rock shelter paintings",
+        "caption": "Bhimbetka rock shelter paintings",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Bas-relief_on_the_rocks_in_Mahabalipour,%22_by_H._Clerget,_from_'Le_Tour_du_Monde',_1869_a.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhimbetka_rock_shelter_paintings.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Bas-relief%20on%20the%20rocks%20in%20Mahabalipour%2C%22%20by%20H.%20Clerget%2C%20from%20%27Le%20Tour%20du%20Monde%27%2C%201869.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Bas relief on the rocks in Mahabalipour,\" by H. Clerget, from 'Le Tour du Monde', 1869",
-        "caption": "Bas relief on the rocks in Mahabalipour,\" by H. Clerget, from 'Le Tour du Monde', 1869 â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cave_showing_paintings.jpg?width=1280",
+        "alt": "Rock Shelters of Bhimbetka: Cave showing paintings",
+        "caption": "Cave showing paintings",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Bas-relief_on_the_rocks_in_Mahabalipour,%22_by_H._Clerget,_from_'Le_Tour_du_Monde',_1869.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cave_showing_paintings.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Pagodas%20at%20Mahabalipuram%2C%22%20a%20copper%20engraving%20from%201811.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Pagodas at Mahabalipuram,\" a copper engraving from 1811",
-        "caption": "Pagodas at Mahabalipuram,\" a copper engraving from 1811 â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Entrance_of_bhimbetka.jpg?width=1280",
+        "alt": "Rock Shelters of Bhimbetka: Entrance of bhimbetka",
+        "caption": "Entrance of bhimbetka",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Pagodas_at_Mahabalipuram,%22_a_copper_engraving_from_1811.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Entrance_of_bhimbetka.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/12Arunjas%20Penance%20Mahavalipuram.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: 12Arunjas Penance Mahavalipuram",
-        "caption": "12Arunjas Penance Mahavalipuram â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Entry_to_%22Auditorium_Cave%22.jpg?width=1280",
+        "alt": "Rock Shelters of Bhimbetka: Entry to %22Auditorium Cave%22",
+        "caption": "Entry to %22Auditorium Cave%22",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:12Arunjas_Penance_Mahavalipuram.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Entry_to_%22Auditorium_Cave%22.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Five%20Rathas%2C%20Mahabalipuram.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Five Rathas, Mahabalipuram",
-        "caption": "Five Rathas, Mahabalipuram â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Frog_Rock_Carved_by_Nature.JPG?width=1280",
+        "alt": "Rock Shelters of Bhimbetka: Frog Rock Carved by Nature",
+        "caption": "Frog Rock Carved by Nature",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Five_Rathas,_Mahabalipuram.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frog_Rock_Carved_by_Nature.JPG?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Info%20Arjunas%20Penance%20Descent%20Ganges%20Mahabalipuram%20Sep22%20A7C%2002501.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Info Arjunas Penance Descent Ganges Mahabalipuram Sep22 A7C 02501",
-        "caption": "Info Arjunas Penance Descent Ganges Mahabalipuram Sep22 A7C 02501 â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gathering_Place_Bhimbetka(1).jpg?width=1280",
+        "alt": "Rock Shelters of Bhimbetka: Gathering Place Bhimbetka(1)",
+        "caption": "Gathering Place Bhimbetka(1)",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Info_Arjunas_Penance_Descent_Ganges_Mahabalipuram_Sep22_A7C_02501.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gathering_Place_Bhimbetka(1).jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Info%20Five%20Rathas%20Mahabalipuram%20Sep22%20A7C%2002536.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Info Five Rathas Mahabalipuram Sep22 A7C 02536",
-        "caption": "Info Five Rathas Mahabalipuram Sep22 A7C 02536 â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock_Shelter_at_Bhimbetka_UNESCO_World_Heritage_Site.jpg?width=1280",
+        "alt": "Rock Shelters of Bhimbetka: Rock Shelter at Bhimbetka UNESCO World Heritage Site",
+        "caption": "Rock Shelter at Bhimbetka UNESCO World Heritage Site",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Info_Five_Rathas_Mahabalipuram_Sep22_A7C_02536.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock_Shelter_at_Bhimbetka_UNESCO_World_Heritage_Site.jpg?width=1280"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock_Shelter_Bhembetika_(1).jpg?width=1280",
+        "alt": "Rock Shelters of Bhimbetka: Rock Shelter Bhembetika (1)",
+        "caption": "Rock Shelter Bhembetika (1)",
+        "type": "present",
+        "credit": "Photographer and licence: see Wikimedia Commons file page",
+        "license": "Pending verification on source page",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock_Shelter_Bhembetika_(1).jpg?width=1280"
       }
     ]
   },
@@ -3458,8 +3530,17 @@
     },
     "constructionPeriod": "c. 1250 CE (13th century)",
     "architecturalStyle": "Kalinga (Odisha) temple architecture",
-    "modelAvailability": "unavailable",
-    "thumbnail": "https://commons.wikimedia.org/wiki/Category:Konark_Sun_Temple",
+    "modelAvailability": "available",
+    "modelType": "sketchfab",
+    "modelPath": "https://sketchfab.com/models/6cc905be2ae34e8091eb1eaa84a17738/embed",
+    "modelAttribution": {
+      "title": "Sun Temple, Konark",
+      "author": "Sketchfab creator (see source page)",
+      "license": "Sketchfab licence; verify on source page",
+      "sourceUrl": "https://sketchfab.com/3d-models/sun-temple-konark-6cc905be2ae34e8091eb1eaa84a17738",
+      "accuracy": "External creator model; accuracy not independently verified."
+    },
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Sun_Temple_at_Konark.jpg",
     "historicalPhotographs": [],
     "sources": [
       {
@@ -3563,7 +3644,16 @@
     },
     "constructionPeriod": "c. 1632-1653",
     "architecturalStyle": "Mughal architecture (Indo-Islamic, white marble)",
-    "modelAvailability": "unavailable",
+    "modelAvailability": "available",
+    "modelType": "sketchfab",
+    "modelPath": "https://sketchfab.com/models/1eb09052f6cd421caeaa6cb3204cb15d/embed",
+    "modelAttribution": {
+      "title": "Taj Mahal 3D Model",
+      "author": "Sketchfab creator (see source page)",
+      "license": "Sketchfab licence; verify on source page",
+      "sourceUrl": "https://sketchfab.com/3d-models/taj-mahal-3d-model-1eb09052f6cd421caeaa6cb3204cb15d",
+      "accuracy": "External creator model; accuracy not independently verified."
+    },
     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_full_view.jpg",
     "historicalPhotographs": [],
     "sources": [
@@ -3576,76 +3666,76 @@
     ],
     "photographs": [
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Complete_view_of_Tajmahal.jpg",
-        "alt": "Taj Mahal complete view",
-        "caption": "Complete view of the Taj Mahal — alternative Wikimedia Commons image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal,_Agra,_India.jpg?width=1280",
+        "alt": "Taj Mahal: Taj Mahal, Agra, India",
+        "caption": "Taj Mahal, Agra, India",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Complete_view_of_Tajmahal.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal,_Agra,_India.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Bas-relief%20on%20the%20rocks%20in%20Mahabalipour%2C%22%20by%20H.%20Clerget%2C%20from%20%27Le%20Tour%20du%20Monde%27%2C%201869%20a.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Bas relief on the rocks in Mahabalipour,\" by H. Clerget, from 'Le Tour du Monde', 1869 a",
-        "caption": "Bas relief on the rocks in Mahabalipour,\" by H. Clerget, from 'Le Tour du Monde', 1869 a â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_in_March_2004.jpg?width=1280",
+        "alt": "Taj Mahal: Taj Mahal in March 2004",
+        "caption": "Taj Mahal in March 2004",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Bas-relief_on_the_rocks_in_Mahabalipour,%22_by_H._Clerget,_from_'Le_Tour_du_Monde',_1869_a.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_in_March_2004.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Bas-relief%20on%20the%20rocks%20in%20Mahabalipour%2C%22%20by%20H.%20Clerget%2C%20from%20%27Le%20Tour%20du%20Monde%27%2C%201869.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Bas relief on the rocks in Mahabalipour,\" by H. Clerget, from 'Le Tour du Monde', 1869",
-        "caption": "Bas relief on the rocks in Mahabalipour,\" by H. Clerget, from 'Le Tour du Monde', 1869 â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Taj_Mahal-Agra_India0023.JPG?width=1280",
+        "alt": "Taj Mahal: El Taj Mahal-Agra India0023",
+        "caption": "El Taj Mahal-Agra India0023",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Bas-relief_on_the_rocks_in_Mahabalipour,%22_by_H._Clerget,_from_'Le_Tour_du_Monde',_1869.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Taj_Mahal-Agra_India0023.JPG?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Pagodas%20at%20Mahabalipuram%2C%22%20a%20copper%20engraving%20from%201811.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Pagodas at Mahabalipuram,\" a copper engraving from 1811",
-        "caption": "Pagodas at Mahabalipuram,\" a copper engraving from 1811 â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_Entry.jpg?width=1280",
+        "alt": "Taj Mahal: Taj Mahal Entry",
+        "caption": "Taj Mahal Entry",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Pagodas_at_Mahabalipuram,%22_a_copper_engraving_from_1811.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_Entry.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/12Arunjas%20Penance%20Mahavalipuram.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: 12Arunjas Penance Mahavalipuram",
-        "caption": "12Arunjas Penance Mahavalipuram â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_Complex_Corridor.jpg?width=1280",
+        "alt": "Taj Mahal: Taj Mahal Complex Corridor",
+        "caption": "Taj Mahal Complex Corridor",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:12Arunjas_Penance_Mahavalipuram.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_Complex_Corridor.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Five%20Rathas%2C%20Mahabalipuram.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Five Rathas, Mahabalipuram",
-        "caption": "Five Rathas, Mahabalipuram â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_-_railings.jpg?width=1280",
+        "alt": "Taj Mahal: Taj Mahal - railings",
+        "caption": "Taj Mahal - railings",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Five_Rathas,_Mahabalipuram.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_-_railings.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Info%20Arjunas%20Penance%20Descent%20Ganges%20Mahabalipuram%20Sep22%20A7C%2002501.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Info Arjunas Penance Descent Ganges Mahabalipuram Sep22 A7C 02501",
-        "caption": "Info Arjunas Penance Descent Ganges Mahabalipuram Sep22 A7C 02501 â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_0288.jpg?width=1280",
+        "alt": "Taj Mahal: Taj Mahal 0288",
+        "caption": "Taj Mahal 0288",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Info_Arjunas_Penance_Descent_Ganges_Mahabalipuram_Sep22_A7C_02501.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_0288.jpg?width=1280"
       },
       {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Info%20Five%20Rathas%20Mahabalipuram%20Sep22%20A7C%2002536.jpg",
-        "alt": "Group of Monuments at Mahabalipuram: Info Five Rathas Mahabalipuram Sep22 A7C 02536",
-        "caption": "Info Five Rathas Mahabalipuram Sep22 A7C 02536 â€” present-day reference photograph",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_0023.jpg?width=1280",
+        "alt": "Taj Mahal: Taj Mahal 0023",
+        "caption": "Taj Mahal 0023",
         "type": "present",
         "credit": "Photographer and licence: see Wikimedia Commons file page",
         "license": "Pending verification on source page",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Info_Five_Rathas_Mahabalipuram_Sep22_A7C_02536.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_0023.jpg?width=1280"
       }
     ]
   },
@@ -3678,7 +3768,7 @@
     "constructionPeriod": "Planned from 1951; built 1950s-1960s",
     "architecturalStyle": "Modernist architecture (brutalist concrete)",
     "modelAvailability": "unavailable",
-    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Capitol_Complex_Chandigarh.jpg",
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Capital_Complex_Chandigarh.jpg",
     "historicalPhotographs": [],
     "sources": [
       {
@@ -3783,7 +3873,7 @@
     "constructionPeriod": "c. 1860s-1880s (Victorian Gothic); 1930s-1940s (Art Deco)",
     "architecturalStyle": "Victorian Gothic Revival and Art Deco",
     "modelAvailability": "unavailable",
-    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Victorian_Gothic_and_Art_Deco_Ensembles_of_Mumbai.jpg",
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Oval_Maidan_(59376).jpg",
     "historicalPhotographs": [],
     "sources": [
       {
@@ -4203,7 +4293,7 @@
     "constructionPeriod": "Ashram founded 1863; school 1901; Visva-Bharati 1921",
     "architecturalStyle": "Vernacular and early modernist campus architecture",
     "modelAvailability": "unavailable",
-    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiniketan.jpg",
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Visva_Bharati_University_Shantiniketan.jpg",
     "historicalPhotographs": [],
     "sources": [
       {
@@ -4308,7 +4398,7 @@
     "constructionPeriod": "13th-19th centuries",
     "architecturalStyle": "Ahom mound-burial architecture",
     "modelAvailability": "unavailable",
-    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Moidams.jpg",
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Charaideo_Moidams_photo,Assam.jpg",
     "historicalPhotographs": [],
     "sources": [
       {
@@ -4518,7 +4608,7 @@
     "constructionPeriod": "3rd century BCE to 12th century CE",
     "architecturalStyle": "Buddhist stupa and monastic architecture",
     "modelAvailability": "unavailable",
-    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhamek_Stupa_Sarnath.jpg",
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhamek_Stupa_Sarnath_2025.jpg",
     "historicalPhotographs": [],
     "sources": [
       {

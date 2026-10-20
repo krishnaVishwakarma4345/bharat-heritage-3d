@@ -21,5 +21,5 @@ export function filterMonuments({ query = '', region = 'All regions' } = {}) {
 }
 
 export function getFeaturedMonuments() {
-  return monuments.filter((monument) => monument.featured)
+  return monuments.filter((monument) => monument.modelAvailability === 'available')
 }
